@@ -113,7 +113,7 @@ Many trans women find it helpful to keep a monthly journal documenting physical 
 
 ## What HRT **WILL NOT** Change
 
-- **Bone structure** — hip width, shoulder width, height, and hand/foot size are set by puberty
+- **Bone structure** — hip width, shoulder width, height, and hand/foot size are set by puberty (note: emerging evidence suggests pelvic bone morphology may continue to develop in individuals who begin feminising HRT before skeletal maturity, ~18–21 years)
 - **Voice pitch** — estrogen does not affect the vocal cords
 - **Existing facial/body hair** — HRT slows growth but does **not** remove existing terminal hairs
 - **Adam's apple** — estrogen does not reduce laryngeal cartilage

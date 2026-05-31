@@ -51,7 +51,7 @@ Testosterone enters cells and binds to **androgen receptors** (AR), activating g
 
 ## DHT: The Potent Metabolite
 
-DHT is 2–5× more potent than testosterone. It is produced by the enzyme **5α-reductase** converting T to DHT in specific tissues (skin, scalp, prostate).
+DHT is approximately 2–3× more potent than testosterone (some sources cite up to 5× depending on tissue and assay). It is produced by the enzyme **5α-reductase** converting T to DHT in specific tissues (skin, scalp, prostate).
 
 | Effect | Mostly T | Mostly DHT |
 |--------|----------|------------|

@@ -45,7 +45,7 @@ Unprotected intercourse can still result in pregnancy even if you are on HRT and
 Bone health is maintained by having adequate levels of either estrogen or testosterone. Since feminising HRT provides estrogen, bone density is generally well-preserved or improved. The concern is only relevant if both hormones are suppressed — which should not happen with proper HRT.
 
 ::: tip Target range matters
-Keeping estradiol levels in the 100–200 pg/mL range is important for bone health. Low E2 levels on both the pre-HRT and post-HRT sides of transition are what cause bone density problems.
+Keeping estradiol levels in the 100–200 pg/mL range is important for bone health. Low E2 levels on both the pre-HRT and post-HRT sides of transition are what cause bone density problems. Adequate calcium and vitamin D intake also supports bone health during HRT.
 :::
 
 ## Myth 5: "Progesterone is essential for breast growth"
@@ -107,7 +107,7 @@ Many trans people use DIY HRT because they face waiting lists of years, gatekeep
 
 **Fact:** CPA carries a dose-dependent risk of meningioma (a usually benign brain tumour).
 
-The risk increases with cumulative dose and duration. Historically, CPA was prescribed at 50–100 mg/day for trans women — far higher than necessary. Current best practice recommends **10–12.5 mg/day** as sufficient for testosterone suppression in most people. CPA is contraindicated in anyone with a history of meningioma.
+The risk increases with cumulative dose and duration. Historically, CPA was prescribed at 50–100 mg/day for trans women — far higher than necessary. Current best practice recommends **10–12.5 mg/day** as sufficient for testosterone suppression in most people. Note that the European Medicines Agency (EMA) formally restricts all medicines with CPA doses ≥10 mg/day (2020 PRAC ruling), so 12.5 mg/day is within the restricted range — this is a harm reduction choice, not a ceiling below regulatory concern. CPA is contraindicated in anyone with a history of meningioma.
 
 ## Myth 14: "Anti-androgens are always necessary"
 

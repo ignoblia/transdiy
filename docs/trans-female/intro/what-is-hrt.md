@@ -80,7 +80,7 @@ The Endocrine Society recommends monitoring hormone levels **every 3 months** du
 |------|----------|----------|-------|
 | Oral (pills) | Estradiol valerate, hemihydrate | Higher | 2–8 mg/day; can be taken sublingually for better absorption |
 | Transdermal (gel/patches) | Oestrogel, patches (50–100 mcg twice weekly) | **Lower** | Preferred by guidelines; steady absorption, less liver impact |
-| Injections | Estradiol valerate (EV), cypionate (EC) | Lower | EV 2–8 mg every 5 days; EC 1–5 mg every 7 days |
+| Injections | Estradiol valerate (EV), cypionate (EC) | Lower | EV 2–4 mg starting, up to 8 mg maintenance (every 5 days); EC 1–5 mg every 7 days |
 
 ::: tip Transdermal is preferred
 Clinical guidelines recommend transdermal 17β-estradiol over oral formulations, particularly for individuals with elevated cardiovascular or clotting risk, due to its more favourable safety profile.
@@ -97,7 +97,9 @@ Clinical guidelines recommend transdermal 17β-estradiol over oral formulations,
 | Finasteride | 5α-reductase inhibitor (blocks DHT conversion) | 1–5 mg/day | Primarily for scalp hair preservation; not a full anti-androgen |
 
 ::: warning Cyproterone Acetate (CPA) and Meningioma Risk
-Higher cumulative doses of CPA are associated with a significantly increased risk of meningioma (a type of usually benign brain tumour), with the risk being dose- and duration-dependent. The risk increases particularly with long-term use at doses of 25 mg/day or higher. The current recommended dose for HRT has been lowered to **10–12.5 mg/day** to reduce this risk. CPA is contraindicated in anyone with a history of meningioma.
+Higher cumulative doses of CPA are associated with a significantly increased risk of meningioma (a type of usually benign brain tumour), with the risk being dose- and duration-dependent. The risk increases particularly with long-term use at doses of 25 mg/day or higher. The current recommended dose for HRT has been lowered to **10–12.5 mg/day** to reduce this risk.
+
+Note: The European Medicines Agency (EMA) 2020 PRAC ruling formally restricts **all medicines with daily CPA doses of 10 mg or more**, meaning 12.5 mg/day is within the restricted range, not a safe ceiling below regulatory concern. Readers using 10–12.5 mg/day should understand this and discuss cumulative dose monitoring with a provider if possible. CPA is contraindicated in anyone with a history of meningioma.
 :::
 
 ::: info On Finasteride
@@ -137,7 +139,7 @@ The most serious known adverse effect of feminising hormone therapy is **venous 
 - **Stop smoking** — smoking independently raises VTE and cardiovascular risk, and the combination with oral estrogen is particularly concerning. <sup>[[2]](#ref-2)</sup>
 - **Maintain a healthy weight** and stay physically active to reduce baseline cardiovascular and thrombotic risk.
 - **Monitor blood pressure and lipids** regularly as recommended by your provider. <sup>[[3]](#ref-3)</sup>
-- **If taking spironolactone**, have potassium checked every 3 months in the first year, then annually. Risk of clinically significant hyperkalemia is low in otherwise healthy individuals under 45, but increases with age. <sup>[[7]](#ref-7)</sup>
+- **If taking spironolactone**, have potassium checked every 3 months in the first year, then annually. Risk of clinically significant hyperkalemia is low in otherwise healthy individuals under 45, but increases with age. <sup>[[7]](#ref-7)</sup> Note: while the Warnock et al. (2022) study suggests routine monitoring may be unnecessary in those under 45 without risk factors, the Endocrine Society's official guidelines still recommend 3-monthly monitoring for all patients — this is emerging evidence challenging current protocol, not yet the standard.
 - **Before major surgery**, discuss with your provider whether to temporarily pause oral estrogen — practices vary between clinicians and institutions. <sup>[[1]](#ref-1)</sup>
 
 ## Is HRT Safe?

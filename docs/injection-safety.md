@@ -88,6 +88,10 @@ This is the easiest site for self-injection because you can see what you are doi
 
 Divide the buttock into four quadrants. Inject into the upper outer quadrant only. The lower inner quadrant contains the sciatic nerve and major blood vessels. This site is hard to reach for self-injection and is better done by another person.
 
+::: warning Dorsogluteal site not recommended
+The CDC and WHO explicitly removed the dorsogluteal (upper outer buttock) site from recommended injection sites in their 2023 guideline updates due to sciatic nerve proximity risk. The ventrogluteal or thigh sites are preferred for self-injection.
+:::
+
 ### Abdomen (SC)
 
 Choose an area 1-2 inches away from the belly button. Pinch a fold of skin. Inject at a 45-90 degree angle into the pinched skin. Rotate around the abdomen, leaving space between sites. Avoid the waistband area where friction can cause irritation.
@@ -132,7 +136,7 @@ The outer upper arm and the front/outer thigh can also be used for SC injections
 **For IM injections**:
 1. Stretch the skin flat at the injection site using your non-dominant hand (Z-track method).
 2. Insert the needle at a 90-degree angle with a quick, steady motion.
-3. Do not aspirate (pull back the plunger). Modern guidelines from the CDC, WHO, and American Medical Association recommend against aspiration for IM and SC injections because it does not improve safety and adds unnecessary pain. If you see blood in the syringe after insertion, you have hit a blood vessel. Withdraw, apply pressure, and try a new site with a fresh needle.
+3. Do not aspirate (pull back the plunger). Modern guidelines from the CDC, WHO, and American Medical Association recommend against aspiration for IM and SC injections because it does not improve safety and adds unnecessary pain. (Note: this guidance is well-established for vaccines; for oil-based hormone injections it is a widely-adopted extrapolation from vaccine evidence rather than a directly mandated guideline, though the practical recommendation is the same.) If you see blood in the syringe after insertion, you have hit a blood vessel. Withdraw, apply pressure, and try a new site with a fresh needle.
 4. Inject slowly. Aim for about 10 seconds per 0.5 mL. Faster injection causes more pain and tissue damage.
 5. Wait 5 seconds after finishing before withdrawing.
 6. Withdraw the needle at the same angle it went in.

@@ -61,7 +61,7 @@ Spironolactone can raise potassium levels. This is **rarely** clinically signifi
 - Taking NSAIDs (ibuprofen, naproxen), ACE inhibitors, or other potassium-raising meds
 - Eating a very high-potassium diet
 
-**Monitoring:** Check potassium 2–4 weeks after starting, then every 3 months in year 1, then annually.
+**Monitoring:** Check potassium 2–4 weeks after starting, then every 3 months in year 1, then annually. Note: the Warnock et al. (2022) study suggests routine monitoring may be unnecessary in those under 45 without risk factors, but the Endocrine Society's official guidelines still recommend 3-monthly monitoring for all patients. This is emerging evidence challenging current protocol.
 :::
 
 ## Drug Interactions

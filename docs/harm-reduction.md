@@ -66,7 +66,7 @@ Regular blood tests are the single most important harm reduction practice for DI
 | **SHBG** | Hormone binding protein | 40–120 nmol/L | 10–50 nmol/L |
 | **LH / FSH** | Pituitary function | Suppressed |  -  |
 | **Prolactin** | Pituitary activity (monitor on CPA) | < 25 ng/mL |  -  |
-| **Haematocrit (HCT)** | Red blood cell concentration | < 50% | < 54% |
+| **Haematocrit (HCT)** | Red blood cell concentration | < 48% | < 54% |
 | **ALT / AST** | Liver function | Within lab range | Within lab range |
 | **Creatinine / eGFR** | Kidney function | Within lab range | Within lab range |
 | **Lipid panel** | Cholesterol (affected by hormones) | Monitor changes | Monitor changes |

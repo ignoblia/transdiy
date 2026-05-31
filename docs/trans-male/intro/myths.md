@@ -37,7 +37,7 @@ Androgenetic alopecia (male pattern baldness) is determined by your genetics —
 
 **Fact:** Bottom growth (clitoral enlargement) is a **normal and expected** effect of testosterone therapy.
 
-The clitoris grows from ~3–5 mm to 3–5 cm on average. This is caused by DHT (a potent metabolite of T) binding to androgen receptors in genital tissue. It does **not** impair sexual function — most trans men report it improves satisfaction.
+The clitoris grows from ~3–5 mm to typically 1–3 cm, with some individuals reaching 4–5 cm. This is caused by DHT (a potent metabolite of T) binding to androgen receptors in genital tissue. It does **not** impair sexual function — most trans men report it improves satisfaction.
 
 ## Myth 6: "Testosterone causes uncontrollable acne"
 
@@ -78,7 +78,7 @@ Testosterone can decrease breast tissue density and reduce overall chest volume,
 
 **Fact:** DIY testosterone carries **significant legal risks** because T is a controlled substance in most countries.
 
-Unlike estradiol, testosterone is classified as a controlled substance (anabolic steroid) in the US (Schedule III), UK (Class C), EU, Australia, and Canada. Importing or possessing it without a prescription can carry serious legal penalties. This does not mean DIY is impossible, but the risk profile is very different from DIY estrogen.
+Unlike estradiol, testosterone is classified as a controlled substance (anabolic steroid) in the US (Schedule III), UK (Class C — note for UK readers: possession without prescription can lead to prosecution), EU, Australia, and Canada. Importing or possessing it without a prescription can carry serious legal penalties. This does not mean DIY is impossible, but the risk profile is very different from DIY estrogen.
 
 ## Myth 12: "A hysterectomy is required for long-term T use"
 

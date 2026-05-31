@@ -18,6 +18,10 @@ Injectable estradiol is a popular choice for DIY HRT and is increasingly prescri
 | **Estradiol enanthate (EEn)** | 7–10 days | 3–8 mg | Every 7 days |
 | **Estradiol undecylate (EUn)** | 12–16 days | 10–20 mg | Every 14–28 days |
 
+::: tip EEn availability
+Estradiol enanthate (EEn) is significantly less available as a pharmaceutical product than EV or EC in the UK, most of Europe, and North America. It is more commonly sourced via homebrew. If you need a pharmaceutical option, EV or EC are more widely stocked.
+:::
+
 ## Dosing Guidelines
 
 ### Estradiol Valerate (EV)

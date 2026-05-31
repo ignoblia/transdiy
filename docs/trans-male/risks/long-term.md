@@ -33,9 +33,9 @@ Testosterone can worsen pre-existing sleep apnoea. If you have sleep apnoea, mon
 
 | Cancer Type | Risk on T |
 |-------------|-----------|
-| Breast cancer | Risk decreases (T suppresses E2) |
+| Breast cancer | Risk decreases relative to cis women (T suppresses E2), but trans men retain breast tissue unless they have top surgery, and breast cancer has been documented. Regular chest checks still recommended. |
 | Ovarian cancer | No clear increased risk |
-| Uterine/endometrial | Uncertain — limited data |
+| Uterine/endometrial | Current evidence suggests T does not increase risk and may be protective (endometrial atrophy), but a small number of cases have been documented. Unexplained vaginal bleeding on T warrants evaluation regardless of duration of therapy. |
 | Prostate | N/A (no prostate in AFAB individuals) |
 
 ## Bone Health

@@ -20,7 +20,7 @@ Cyproterone acetate is a progestogen with potent anti-androgenic effects. It sup
 ## Dosing
 
 ::: danger Dose-dependent meningioma risk
-CPA carries a **dose-dependent risk of meningioma** (a usually benign brain tumour). Higher cumulative doses significantly increase risk. **Do not exceed 12.5 mg/day** — historic doses of 50–100 mg/day are no longer considered safe.
+CPA carries a **dose-dependent risk of meningioma** (a usually benign brain tumour). Higher cumulative doses significantly increase risk. **Do not exceed 12.5 mg/day** — historic doses of 50–100 mg/day are no longer considered safe. Note that the European Medicines Agency (EMA) formally restricts all medicines with CPA doses ≥10 mg/day (2020 PRAC ruling), so 12.5 mg/day is within the restricted range — discuss cumulative dose monitoring with your provider.
 :::
 
 | Level | Dose | Notes |
@@ -91,7 +91,7 @@ A meningioma is a tumour of the meninges (the membranes covering the brain and s
 
 ### Risk Mitigation
 
-1. **Use the lowest effective dose** — 10–12.5 mg/day, never more
+1. **Use the lowest effective dose** — 10–12.5 mg/day, never more (note: the EMA restricts all doses ≥10 mg/day)
 2. **Consider reducing dose after 6–12 months** — once E2 is stable, some people can lower CPA or switch to monotherapy
 3. **Consider switching** to bicalutamide or spironolactone if you have risk factors
 4. **Do not use CPA if you have** a personal or family history of meningioma

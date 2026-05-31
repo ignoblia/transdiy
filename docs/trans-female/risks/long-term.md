@@ -66,11 +66,12 @@ VTE — blood clots in veins — is the most well-known risk of estrogen therapy
 The 2019 Dutch cohort study (n = 2,260) found the absolute risk remains low — about 4 cases per 1,000 trans women over 10 years. The increased risk appears after 5+ years of estrogen exposure.
 
 ::: info Breast cancer screening
-Guidelines for breast cancer screening in trans women vary. Generally:
+Guidelines for breast cancer screening in trans women vary — WPATH SOC8 and various national bodies do not have fully harmonised recommendations. Generally:
 - Routine self-exams
 - Clinical breast exams by a provider
-- Mammography recommended if age > 50 and on HRT for > 5 years
+- A common guideline is mammography if age > 50 and on HRT for > 5 years
 - Some guidelines recommend starting mammography at 50 regardless of HRT duration
+- Discuss with your provider which screening schedule is right for you
 :::
 
 ## Prolactin Elevation

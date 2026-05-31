@@ -103,7 +103,7 @@ description: A comprehensive glossary of medical terms, abbreviations, and slang
 
 **Pellets** — Subcutaneous hormone implants lasting several months.
 
-**Polycythemia** — High red blood cell count; a side effect of testosterone therapy.
+**Polycythemia** — High red blood cell count; in the context of T therapy this specifically refers to **secondary erythrocytosis** (elevated haematocrit/haemoglobin from testosterone-stimulated erythropoiesis), distinct from polycythemia vera (a myeloproliferative disorder).
 
 **Prolactin** — A hormone that can rise with CPA use.
 

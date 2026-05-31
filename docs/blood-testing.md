@@ -54,7 +54,7 @@ Same panel as above, plus any additional markers your specific regimen requires 
 |-----|--------|
 | **Test at trough** | The lowest point in your dosing cycle  -  just before your next dose for injections, first thing in the morning for transdermal/oral. |
 | **Use the same lab** | Different labs use different assays; consistency gives you comparable results over time. |
-| **Avoid biotin** | Stop biotin-containing supplements 3–5 days before testing  -  it skews immunoassay results. |
+| **Avoid biotin** | Stop biotin-containing supplements 3–5 days before testing  -  it skews immunoassay results (LC-MS/MS is not affected by biotin, so if your lab uses LC-MS/MS this precaution is unnecessary). |
 | **Be consistent with timing** | Always test at the same point in your cycle for meaningful comparisons. |
 | **Stay hydrated** | Dehydration can concentrate blood and skew results. |
 | **Don't rush** | If you change dose, wait 4–6 weeks before testing to reach steady state. |
@@ -220,7 +220,7 @@ Blood tests can be accessed through **public healthcare systems** (free or low-c
 | **E1 (Estrone)** | Not routinely needed | Elevated with oral E2 due to first-pass metabolism | WPATH SOC8 states estrone/estradiol ratios need not be measured. Recent evidence does not support the claim that high E1:E2 ratios impair feminisation. Switching to parenteral routes (injections, patches, gel) avoids high E1 levels. |
 | **SHBG** | 40–120 nmol/L | Below 40: free E2 may be higher than expected | > 150 nmol/L binds too much E2, reducing effectiveness  -  reduce E2 dose if high |
 | **Prolactin** | < 25 ng/mL | Normal | CPA side effect; risk of prolactinoma if persistently > 100 ng/mL |
-| **HCT** | < 50% | Normal | Polycythaemia risk  -  rare on E alone |
+| **HCT** | < 48% | Normal | Polycythaemia risk  -  rare on E alone |
 
 ### For Trans Men / Trans Masc People
 
