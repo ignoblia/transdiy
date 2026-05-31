@@ -377,7 +377,7 @@ A simple spreadsheet (Google Sheets, Excel) or a notes app works well. Plotting 
 | **Can't get trough timing right** | For injections, test immediately before your next shot. For gel, test in the morning before applying. For patches, test just before changing. |
 | **Cost is prohibitive** | Check if your country has free sexual health clinics; use sliding-scale services; find community members who pool tests (buy one panel, share the cost). |
 | **Different labs give different results** | Labs use different assays. Stick to one lab for consistency. If switching labs, do one test at both to calibrate. |
-| **Doctor says your levels are "normal" but they are not in target range** | Many labs use cisgender reference ranges. Explain that you are on HRT and need transgender-specific targets. Bring the WPATH or Endocrine Society targets. |
+| **Doctor says your levels are "normal" but they are not in target range** | Many labs use cisgender reference ranges. Explain that you are on HRT and need transsexual-specific targets. Bring the WPATH or Endocrine Society targets. |
 
 ## References
 

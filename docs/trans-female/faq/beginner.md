@@ -32,7 +32,7 @@ It **can** reduce fertility, possibly permanently. The effect is not guaranteed 
 
 ## Can I DIY if I'm under 18?
 
-This guide does not recommend HRT for minors without medical supervision. Hormone blockers (GnRH agonists) are the standard of care for transgender adolescents, not full HRT. If you are under 18, seek support from a qualified provider.
+This guide does not recommend HRT for minors without medical supervision. Hormone blockers (GnRH agonists) are the standard of care for transsexual adolescents, not full HRT. If you are under 18, seek support from a qualified provider.
 
 ## Will HRT affect my mental health?
 

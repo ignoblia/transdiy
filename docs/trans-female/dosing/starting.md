@@ -1,9 +1,9 @@
 ---
-title: Starting Doses — Trans Female HRT (Beginner)
-description: Recommended starting doses for feminising hormone therapy, including estrogen and anti-androgen options for beginners.
+title: Starting Doses — Trans Feminine HRT
+description: Comprehensive dosing guide for feminising hormone therapy, including antiandrogen + estradiol combinations, injection monotherapy, and blood testing guidance.
 ---
 
-# Starting Doses (Beginner)
+# Starting Doses
 
 ## Before You Start
 
@@ -21,7 +21,7 @@ This gives you a reference point to measure changes against.
 :::
 
 ::: info Doses below are for **adults (18+)**.
-Adolescent-specific guidance is provided in the section above.
+Adolescent-specific guidance is provided in the section below.
 :::
 
 ## Adolescent Dosing (Under 18)
@@ -82,103 +82,233 @@ Adolescents who have completed natal puberty can increase doses more rapidly:
 
 ---
 
-## Starting Estrogen Regimens (Adults)
+## Note on HRT Dosing
 
-Choose **one** estrogen route:
+**Any regimen:** There's no strong evidence that starting with a low estradiol dose and slowly increasing it is better than starting at a moderate dose. Some anecdotes suggest it may improve breast development or feminisation, but these claims lack clinical support. While generally not harmful, lower starting doses may make testosterone suppression more difficult. You can experiment if you choose.
 
-### Option A: Oral/Sublingual Pills
+**For regimens with antiandrogens:** There is usually no reason to start HRT on a lower than standard dose of antiandrogen — you should go directly onto a typical dose of antiandrogen and adjust accordingly if needed.
 
-| Medication | Starting Dose | Notes |
-|------------|---------------|-------|
-| Estradiol hemihydrate (e.g., Estrofem) | 2 mg/day (1 mg twice daily) | Split doses for stable levels |
-| Estradiol valerate (e.g., Progynova) | 2 mg/day | Split twice daily |
+**For regimens with oral or sublingual/buccal estradiol:** To dose pills accurately, you may need a pill cutter, which you can find on Amazon or at most pharmacies. Check your HRT pill type to see how it should be split to match your dose. For example, if you take 2 mg of estradiol three times a day but only have 4 mg pills, you'll need to cut each pill in half.
 
-### Option B: Transdermal Patches
+---
 
-| Strength | Starting Dose | Notes |
-|----------|---------------|-------|
-| Patches (e.g., Estradot, Climara) | 50–100 mcg/24h | Change twice weekly or weekly per brand |
+## Antiandrogen + Estradiol Dosing
 
-### Option C: Gel
+The following example regimens use typical doses of estradiol on the higher end of what would be considered a moderate dose. Adjust accordingly if you have access to blood testing (see [Blood Testing](#blood-testing) below).
 
-| Brand | Starting Dose | Notes |
-|-------|---------------|-------|
-| Oestrogel | 2–3 pumps/day | Apply to upper arms/shoulders |
-| Sandrena | 1 mg/day | Apply to thighs/abdomen |
+### Cyproterone Acetate
 
-### Option D: Injections
+If you take cyproterone, you will need a pill cutter! (Pill cutters are sold at any pharmacy over the counter or online.) Cyproterone tablets are almost always 25–50 mg tablets (way over a recommended dose). It is not recommended to go above 12.5 mg of cyproterone daily. Increase your estrogen dosage if testosterone is not adequately suppressed instead. Cyproterone acetate is taken orally.
 
-| Medication | Starting Dose | Notes |
-|------------|---------------|-------|
-| EV (estradiol valerate) | 2–4 mg every 5 days | Short half-life |
-| EC (estradiol cypionate) | 1–3 mg every 7 days | Lower starting dose than EV due to longer half-life |
-| EEn (estradiol enanthate) | 4 mg every 7 days | Longer half-life |
+| Method | Cyproterone Acetate Dosage | Estradiol Form | Total Daily Estradiol |
+|--------|---------------------------|----------------|----------------------|
+| Oral | 6.25–12.5 mg once a day | 3 mg oral tablets twice daily | 6 mg |
+| Sublingual | 6.25–12.5 mg once a day | 1 mg sublingual/buccal tablets three times daily | 3 mg |
+| Transdermal | 6.25–12.5 mg once a day | 200 µg patches changed twice weekly* | ~200 µg daily equivalent |
+| Topical | 6.25–12.5 mg once a day | 4 mg gel once daily | 4 mg |
 
-## Starting Anti-Androgen Regimens (Adults)
+Cyproterone acetate may be effective for many people when taken at a dosage of 12.5 mg every other day. Blood tests would be useful to check if this adjustment may work for you.
 
-Choose **one** anti-androgen (or none if attempting monotherapy):
+\*Estradiol patches usually come in a form intended to be changed every 3–4 days, although some may allow for weekly use. Check the packaging to be sure how often you are meant to change your patch.
 
-| Medication | Starting Dose | Notes |
-|------------|---------------|-------|
-| **Spironolactone** | 25–50 mg/day | Increase to 100 mg/day after 2–4 weeks |
-| **CPA** | 6.25–12.5 mg/day | Start at lowest effective dose; **do not exceed 12.5 mg/day** |
-| **Bicalutamide** | 25–50 mg/day | No titration needed |
-| **GnRH agonist** | Per prescribing protocol | Prescription only |
+### Bicalutamide
 
-## Sample Starting Regimens
+**Reminder!** Bicalutamide may cause blood testosterone levels to increase slightly, so even though your T may be adequately blocked, your testosterone levels on a blood test will likely show quite high levels. Bicalutamide also has a long half-life, which means it doesn't really matter what time you take it every day, as long as you take it every day. 50 mg daily is almost always enough to ensure adequate testosterone suppression when combined with estradiol. Bicalutamide is taken orally.
 
-### Standard Regimen (Pills)
+| Method | Bicalutamide Dosage | Estradiol Form | Total Daily Estradiol |
+|--------|--------------------|----------------|----------------------|
+| Oral | 50 mg once daily | 3 mg oral tablets twice daily | 6 mg |
+| Sublingual | 50 mg once daily | 1 mg sublingual/buccal tablets three times daily | 3 mg |
+| Transdermal | 50 mg once daily | 200 µg patches changed twice weekly* | ~200 µg daily equivalent |
+| Topical | 50 mg once daily | 4 mg gel once daily | 4 mg |
 
-```
-Estradiol hemihydrate 1 mg twice daily (2 mg/day total)
-Spironolactone 50 mg once daily
-```
+\*Estradiol patches usually come in a form intended to be changed every 3–4 days, although some may allow for weekly use. Check the packaging to be sure how often you are meant to change your patch.
 
-### Standard Regimen (Patches) — Lowest VTE Risk
+### Relugolix
 
-```
-Estradiol patch 50 mcg/24h, change twice weekly
-Bicalutamide 25–50 mg once daily
-```
+Relugolix is taken orally once a day, usually in 40 mg pills. From DIY sources, it usually comes in a capsule form. Relugolix does not have the testosterone flare side effect that GnRH agonists have, so you do not have to increase your dose at the start.
 
-### Low-Risk Regimen (Monotherapy Attempt)
+| Method | Relugolix Dosage | Estradiol Form | Total Daily Estradiol |
+|--------|-----------------|----------------|----------------------|
+| Oral | 40 mg once daily | 3 mg oral tablets twice daily | 6 mg |
+| Sublingual | 40 mg once daily | 1 mg sublingual/buccal tablets three times daily | 3 mg |
+| Transdermal | 40 mg once daily | 200 µg patches changed twice weekly* | ~200 µg daily equivalent |
+| Topical | 40 mg once daily | 4 mg gel once daily | 4 mg |
 
-```
-Estradiol valerate 4 mg every 5 days (IM or SC)
-No anti-androgen
-```
+\*Estradiol patches usually come in a form intended to be changed every 3–4 days, although some may allow for weekly use. Check the packaging to be sure how often you are meant to change your patch.
 
-### CPA-Based Regimen (Common in EU/UK)
+### Buserelin
 
-```
-Estradiol gel 2–3 pumps/day
-CPA 10–12.5 mg/day
-```
+Buserelin (sometimes sold as the brand name Suprefact) has a short half-life, so it should be administered three times a day to be effective. You can double the recommended dose of buserelin during the first week to counteract the testosterone flare effect that GnRH agonists have. Alternatively, you can take cyproterone or bicalutamide for the first three weeks on buserelin.
 
-## What to Expect in the First Month
+Buserelin comes in a bottle that dispenses a set amount of medicine with each spray (300 µg per spray in these examples).
 
-| Week | Expected Changes |
-|------|------------------|
-| Week 1 | Little to no physical change; possible nausea or dizziness |
-| Week 2 | Breast tenderness may begin; libido starts to drop |
-| Week 3 | Skin feels softer; emotional changes possible |
-| Week 4 | Reduced erections; breast buds may be palpable |
+| Method | Buserelin Dosage | Estradiol Form | Total Daily Estradiol |
+|--------|-----------------|----------------|----------------------|
+| Oral | 300 µg sprayed three times per day (900 µg/day) | 3 mg oral tablets twice daily | 6 mg |
+| Sublingual | 300 µg sprayed three times per day (900 µg/day) | 1 mg sublingual/buccal tablets three times daily | 3 mg |
+| Transdermal | 300 µg sprayed three times per day (900 µg/day) | 200 µg patches changed twice weekly* | ~200 µg daily equivalent |
+| Topical | 300 µg sprayed three times per day (900 µg/day) | 4 mg gel once daily | 4 mg |
 
-## When to Increase Dose
+\*Estradiol patches usually come in a form intended to be changed every 3–4 days, although some may allow for weekly use. Check the packaging to be sure how often you are meant to change your patch.
 
-- **Estrogen:** After 4–8 weeks, if E2 is below target (100–200 pg/mL) and you have no side effects
-- **Anti-androgen:** After 4–8 weeks, if T is above 50 ng/dL and the AA is well tolerated
-- **Increase slowly** — do not double doses without blood test confirmation
+### Spironolactone
 
-## Common Starting Mistakes
+For some individuals, spironolactone may not be able to adequately suppress testosterone levels. It's recommended to get a blood test to monitor your levels to see if this is an effective antiandrogen for you.
 
-| Mistake | Why It's a Problem |
-|---------|-------------------|
-| Starting too high | More side effects; harder to know what works |
-| Starting too many meds at once | Can't tell which is causing side effects |
-| No baseline blood test | Can't measure progress |
-| Taking oral estrogen once daily | Levels peak then crash; split doses |
-| Expecting changes too fast | HRT is a marathon, not a sprint |
+| Method | Spironolactone Dosage | Estradiol Form | Total Daily Estradiol |
+|--------|----------------------|----------------|----------------------|
+| Oral | 200 mg once daily | 3 mg oral tablets twice daily | 6 mg |
+| Sublingual | 200 mg once daily | 1 mg sublingual/buccal tablets three times daily | 3 mg |
+| Transdermal | 200 mg once daily | 200 µg patches changed twice weekly* | ~200 µg daily equivalent |
+| Topical | 200 mg once daily | 4 mg gel once daily | 4 mg |
+
+\*Estradiol patches usually come in a form intended to be changed every 3–4 days, although some may allow for weekly use. Check the packaging to be sure how often you are meant to change your patch.
+
+---
+
+## Injection Monotherapy Dosing
+
+Here are some reasonable dosages for estradiol injections used in transfeminine hormone therapy:
+
+| Estradiol Formulation | Recommended Dose | Injection Volume | Frequency |
+|----------------------|-----------------|------------------|-----------|
+| Estradiol Valerate (EV) | 4 mg | 0.1 mL (assuming 40 mg/mL vial) | Every 5 days |
+| Estradiol Cypionate (EC) | 4 mg | 0.1 mL (assuming 40 mg/mL vial) | Every 7 days |
+| Estradiol Enanthate (EEn) | 4 mg | 0.1 mL (assuming 40 mg/mL vial) | Every 7 days |
+| Estradiol Enanthate (EEn) — Alternative | 7 mg | ~0.18 mL (assuming 40 mg/mL vial) | Every 10 days |
+| Estradiol Undecylate (EUn) | 24 mg | 0.3 mL (assuming 80 mg/mL vial) | Every 21 days |
+| Estradiol Undecylate (EUn) — Alternative | 32 mg | 0.4 mL (assuming 80 mg/mL vial) | Every month (28–31 days) |
+
+Because estradiol undecylate takes longer to accumulate in the body, you may choose, for the first dose only, to take up to 2.5× the standard dose to reach stable levels more quickly. For example, if your intended dose is 32 mg every month, your initial loading dose may be 80 mg (32 × 2.5).
+
+::: warning Estradiol Undecylate (EUn)
+It is highly recommended to inject estradiol undecylate intramuscularly, as subcutaneous injections may produce unpredictable levels.
+:::
+
+### Notes on Injection Dosing
+
+- Usually, homebrew estradiol injections are compounded at a concentration of **40 mg/mL**, with the exception of estradiol undecylate (EUn), which is usually compounded at **80 mg/mL**.
+- EEn has two common dosing schedules.
+- EUn has two common dosing schedules.
+- These are general guidelines for dosing.
+- These dosages should give the vast majority of people high enough estradiol levels to suppress testosterone on its own.
+
+Adjust accordingly if you have access to blood testing (see [Blood Testing](#blood-testing) below). Ideally you should be aiming for the lowest possible estradiol levels (that are still above 100 pg/mL at trough) that still adequately suppress testosterone < 50 ng/dL at trough. Though people usually require trough estradiol levels of 200–250 pg/mL to adequately suppress testosterone. ("Trough" refers to your blood levels at the lowest point of your dosage regimen, which is right before you take your next dose.)
+
+## Calculating Injection Dosages
+
+Vials of estradiol are usually compounded at 40 mg/mL.
+
+This means that for a 40 mg/mL vial, every 1 mL of liquid will contain 40 mg of estradiol. A 40 mg/mL 10 mL vial will then contain a total of 400 mg of estradiol.
+
+We will unfortunately be doing some math here.
+
+The formula to calculate how much liquid to inject is:
+
+> **(amount you want to inject) ÷ (concentration of the vial) = amount to inject per dose in mL**
+
+### Dosing Examples
+
+| Desired Dose | Vial Concentration | Calculation | Injection Volume |
+|-------------|-------------------|-------------|------------------|
+| 4 mg | 40 mg/mL | 4 ÷ 40 = 0.1 | 0.1 mL |
+| 5 mg | 40 mg/mL | 5 ÷ 40 ≈ 0.13 | 0.13 mL |
+| 8 mg | 40 mg/mL | 8 ÷ 40 = 0.2 | 0.2 mL |
+| 10 mg | 10 mg/mL | 10 ÷ 10 = 1 | 1 mL |
+| 10 mg | 20 mg/mL | 10 ÷ 20 = 0.5 | 0.5 mL |
+| 10 mg | 40 mg/mL | 10 ÷ 40 = 0.25 | 0.25 mL |
+| 10 mg | 80 mg/mL | 10 ÷ 80 ≈ 0.13 | 0.13 mL |
+
+Not too complicated, hopefully! If you still need help with calculating dosages, [this is a useful tool](https://transfemscience.org/articles/e2-injections/).
+
+## How to Perform an E Injection
+
+Needles can be bought from any pharmacy over the counter in most countries without a prescription (you may have to ask the pharmacist directly). Most countries also have online sites that sell appropriate injection needles. Amazon is a popular source for those in America.
+
+### Injection Supplies
+
+Make sure to buy **1 mL syringes**, as the small amounts of fluid we are using for each injection are only easily measured with 1 mL syringes. The more common 3 mL syringes are not ideal due to the difficulty in accurately measuring dosage. It is fine to use 3 mL syringes if you are using estradiol undecylate due to the high injection volumes.
+
+### Subcutaneous vs Intramuscular
+
+There are two methods for an E injection:
+- **Subcutaneous (subq/SQ/SC)** — injection into the layer of fat under the skin
+- **Intramuscular (IM)** — injection deep into the muscle underneath the skin and fat
+
+Both methods result in identical absorption rates and levels of the drug (unless you're using estradiol undecylate). Whether you prefer subq or IM is mostly personal preference.
+
+Homebrewed injections typically contain benzyl benzoate (a safe solvent also commonly used in prescription-grade medications), which can cause some minor irritation if injected subcutaneously. Usually there will be less post-injection pain if injected intramuscularly.
+
+### Needle Sizes
+
+| Injection Type | Gauge (Thickness) | Needle Length |
+|---------------|-------------------|---------------|
+| Subcutaneous (subq) | 25–30G | ½"–⅝" |
+| Intramuscular (IM) | 23–25G | 1"–1½" (1" for thinner people, 1½" for larger people) |
+
+Subq needles are thinner than IM needles, which some people find less intimidating.
+
+### Video Guide
+
+There are many online videos and guides for how to administer an intramuscular or subcutaneous injection. Here is a decent one:
+
+**Guide by Plume:** [https://support.getplume.co/support/solutions/articles/72000544742-all-about-injections](https://support.getplume.co/support/solutions/articles/72000544742-all-about-injections)
+
+Very detailed video guides on both IM and subq injections, with the downside that they are split into multiple long videos.
+
+Note that around **0.1 mL of fluid will be lost** with each injection due to needle dead space.
+
+## Injections With Antiandrogens
+
+Generally, injections will not need antiandrogens, though if you prefer to take a lower injection dosage, you may need an antiandrogen (also note that lower injection dosages may require the use of fixed needle, insulin-type syringes of 0.3 mL or 0.5 mL to accurately measure dosage).
+
+Here are some recommended injection dosages if you are taking antiandrogens along with it (refer to the antiandrogen dosing tables above for recommended antiandrogen dosing):
+
+| Estradiol Formulation | Recommended Dose | Injection Volume | Frequency |
+|----------------------|-----------------|------------------|-----------|
+| Estradiol Valerate (EV) | 2 mg | 0.05 mL (assuming 40 mg/mL vial) | Every 5 days |
+| Estradiol Cypionate (EC) | 2 mg | 0.05 mL (assuming 40 mg/mL vial) | Every 7 days |
+| Estradiol Enanthate (EEn) | 2 mg | 0.05 mL (assuming 40 mg/mL vial) | Every 7 days |
+| Estradiol Enanthate (EEn) — Alternative | 3 mg | ~0.075 mL (assuming 40 mg/mL vial) | Every 10 days |
+| Estradiol Undecylate (EUn) | 12 mg | 0.15 mL (assuming 80 mg/mL vial) | Every 21 days |
+| Estradiol Undecylate (EUn) — Alternative | 16 mg | 0.2 mL (assuming 80 mg/mL vial) | Every month |
+
+---
+
+## Blood Testing
+
+::: tip Cost
+$50–$150 per test, depending on source.
+:::
+
+Blood testing is **highly recommended**, but not absolutely mandatory — especially if not particularly affordable or feasible.
+
+It is recommended to do your first blood test within the first 3 months, and then adjust your dosage if necessary. If you change your dosage, try to retest again within 3 months. If your levels look good, blood testing frequency can be reduced to just once a year.
+
+Here are some sources of private blood testing if you cannot access blood testing through the medical system: [Blood Testing Sources](../sources/online-pharmacies.md).
+
+### When to Test
+
+Get your **estradiol (E2)** and **total testosterone (T)** tested every time. Get your blood taken as close as possible to your next scheduled injection/dose (test your blood as far away as possible from a previous dose, right before your next scheduled dose — preferably the day of your shot, or the day before). Your blood levels of estradiol and testosterone when taken at this time are called **trough levels**, because they are the levels of E2 and T that are present in your body at the lowest point in your HRT dosing regimen.
+
+Trough levels are most useful for injection monotherapy — for determining if your testosterone is adequately suppressed at the lowest point of your injection cycle.
+
+### Target Levels
+
+The most essential component of transfeminine HRT is to get:
+- **Total testosterone (T)** below **50 ng/dL**
+- **Estradiol (E2)** above **100 pg/mL**
+
+---
+
+## Footnotes
+
+1. However, I strongly recommend regular blood tests (every 3 months) to get liver function tests (ALT/AST) if you are taking bicalutamide, due to the extremely low but still present risk of severe liver toxicity. You can stop these tests after about a year or so if your liver enzymes are normal on bica after a year — you're fine.
+
+2. Most private blood testing lets you print off a requisition form, which you can bring to a local blood lab to get your blood drawn. You don't have to mail anything in or take your blood at home. In some places like the UK, you will get sent a blood testing kit, which you can take to a local clinic to get your blood drawn.
+
+3. Different abbreviations of subcutaneous in common usage include: subq/subQ, SQ and SC.
 
 ## References
 

@@ -7,7 +7,7 @@ description: An overview of major clinical guidelines for gender-affirming hormo
 
 ## WPATH Standards of Care, Version 8 (SOC8)
 
-The World Professional Association for Transgender Health (WPATH) publishes the most widely referenced standards of care for transgender health.
+The World Professional Association for Transgender Health (WPATH) publishes the most widely referenced standards of care for transsexual health.
 
 | Aspect | Key Recommendations |
 |--------|-------------------|

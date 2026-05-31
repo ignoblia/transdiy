@@ -20,7 +20,7 @@ Applied to DIY HRT, harm reduction means:
 
 ## TransHarmReduction
 
-**[TransHarmReduction.org](https://www.transharmreduction.org/)** is a dedicated non-profit organisation focused on providing evidence-based harm reduction resources specifically for transgender and non-binary people.
+**[TransHarmReduction.org](https://www.transharmreduction.org/)** is a dedicated non-profit organisation focused on providing evidence-based harm reduction resources specifically for transsexual and non-binary people.
 
 ### What They Offer
 
