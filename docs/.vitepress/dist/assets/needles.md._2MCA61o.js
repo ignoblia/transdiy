@@ -1,0 +1,1 @@
+import{_ as e,H as t,f as a}from"./chunks/framework.DLd0CbzH.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"needles.md","filePath":"needles.md"}'),s={name:"needles.md"};function n(r,o,c,d,l,p){return t(),a("div")}const f=e(s,[["render",n]]);export{i as __pageData,f as default};

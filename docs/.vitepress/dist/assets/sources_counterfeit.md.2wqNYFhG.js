@@ -1,0 +1,1 @@
+import{_ as e,H as t,f as r}from"./chunks/framework.DLd0CbzH.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sources/counterfeit.md","filePath":"sources/counterfeit.md"}'),o={name:"sources/counterfeit.md"};function s(c,a,n,i,f,p){return t(),r("div")}const d=e(o,[["render",s]]);export{_ as __pageData,d as default};

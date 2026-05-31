@@ -1,0 +1,1 @@
+import{_ as e,H as a,f as t}from"./chunks/framework.DLd0CbzH.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"trans-male/faq/beginner.md","filePath":"trans-male/faq/beginner.md"}'),n={name:"trans-male/faq/beginner.md"};function r(s,o,c,i,f,m){return a(),t("div")}const d=e(n,[["render",r]]);export{_ as __pageData,d as default};

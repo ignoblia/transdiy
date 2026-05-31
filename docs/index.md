@@ -1,25 +1,25 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "DIY-HRT Wiki"
-  text: "A comprehensive guide to Do-It-Yourself Hormone Replacement Therapy"
-  tagline: My great project tagline
+  tagline: "A comprehensive guide to Do-It-Yourself Hormone Replacement Therapy"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Trans Male Guide
+      link: /trans-male
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Trans Female Guide
+      link: /trans-female
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 🏳️‍⚧️ Trans Male Guide
+    details: Testosterone-based HRT – methods, dosages, safety, and sourcing.
+    link: /trans-male/intro/what-is-hrt
+  - title: 🏳️‍⚧️ Trans Female Guide
+    details: Estrogen-based HRT – methods, dosages, safety, and sourcing.
+    link: /trans-female/intro/what-is-hrt
+  - title: 🩸 Blood Testing & Safety
+    details: Hormone level testing, harm reduction, and safe sourcing.
+    link: /blood-testing
 ---
-

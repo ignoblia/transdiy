@@ -1,0 +1,1 @@
+import{_ as e,H as s,f as t}from"./chunks/framework.DLd0CbzH.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sources/shipping.md","filePath":"sources/shipping.md"}'),r={name:"sources/shipping.md"};function a(n,o,p,i,c,_){return s(),t("div")}const m=e(r,[["render",a]]);export{f as __pageData,m as default};

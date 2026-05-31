@@ -1,0 +1,1 @@
+import{_ as e,H as t,f as a}from"./chunks/framework.DLd0CbzH.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"injection-safety.md","filePath":"injection-safety.md"}'),n={name:"injection-safety.md"};function o(s,c,i,r,f,p){return t(),a("div")}const m=e(n,[["render",o]]);export{d as __pageData,m as default};

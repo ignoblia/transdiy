@@ -1,0 +1,1 @@
+import{_ as t,H as e,f as a}from"./chunks/framework.DLd0CbzH.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"trans-female/intro/myths.md","filePath":"trans-female/intro/myths.md"}'),r={name:"trans-female/intro/myths.md"};function s(n,o,m,c,i,f){return e(),a("div")}const d=t(r,[["render",s]]);export{_ as __pageData,d as default};
