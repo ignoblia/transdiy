@@ -128,7 +128,7 @@ Most clinicians who prescribe progesterone recommend waiting until at least 6–
 | Progesterone | Not routinely measured | Dose guided by symptoms and response |
 
 ::: info These are guidelines, not hard rules
-Not everyone will achieve both E2 and T targets simultaneously — see the "Key Hormone Targets & Monitoring LMFAO" section of the main guide for more detail on this.
+Not everyone will achieve both E2 and T targets simultaneously — see the "Key Hormone Targets & Monitoring" section of the main guide for more detail on this.
 :::
 
 

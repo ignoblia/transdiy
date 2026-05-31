@@ -1,1 +1,0 @@
-import{_ as t,H as e,f as o}from"./chunks/framework.DLd0CbzH.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blood-testing.md","filePath":"blood-testing.md"}'),a={name:"blood-testing.md"};function s(n,r,c,d,i,l){return e(),o("div")}const f=t(a,[["render",s]]);export{_ as __pageData,f as default};

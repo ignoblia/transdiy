@@ -1,1 +1,0 @@
-import{_ as t,H as e,f as a}from"./chunks/framework.DLd0CbzH.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"trans-male/faq/fertility.md","filePath":"trans-male/faq/fertility.md"}'),r={name:"trans-male/faq/fertility.md"};function s(i,n,f,o,c,l){return e(),a("div")}const _=t(r,[["render",s]]);export{p as __pageData,_ as default};

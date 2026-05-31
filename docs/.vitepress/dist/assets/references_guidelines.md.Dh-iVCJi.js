@@ -1,1 +1,0 @@
-import{_ as e,H as t,f as r}from"./chunks/framework.DLd0CbzH.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"references/guidelines.md","filePath":"references/guidelines.md"}'),s={name:"references/guidelines.md"};function n(a,i,c,o,d,f){return t(),r("div")}const _=e(s,[["render",n]]);export{p as __pageData,_ as default};

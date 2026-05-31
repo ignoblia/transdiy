@@ -1,1 +1,0 @@
-import{_ as t,H as e,f as a}from"./chunks/framework.DLd0CbzH.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"community/mental-health.md","filePath":"community/mental-health.md"}'),n={name:"community/mental-health.md"};function m(o,r,c,s,l,i){return e(),a("div")}const _=t(n,[["render",m]]);export{p as __pageData,_ as default};

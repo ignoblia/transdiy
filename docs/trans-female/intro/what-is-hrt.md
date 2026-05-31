@@ -80,7 +80,7 @@ The Endocrine Society recommends monitoring hormone levels **every 3 months** du
 |------|----------|----------|-------|
 | Oral (pills) | Estradiol valerate, hemihydrate | Higher | 2–8 mg/day; can be taken sublingually for better absorption |
 | Transdermal (gel/patches) | Oestrogel, patches (50–100 mcg twice weekly) | **Lower** | Preferred by guidelines; steady absorption, less liver impact |
-| Injections | Estradiol valerate (EV), cypionate (EC) | Lower | 2–10 mg weekly or 5–30 mg every 2 weeks |
+| Injections | Estradiol valerate (EV), cypionate (EC) | Lower | EV 2–8 mg every 5 days; EC 1–5 mg every 7 days |
 
 ::: tip Transdermal is preferred
 Clinical guidelines recommend transdermal 17β-estradiol over oral formulations, particularly for individuals with elevated cardiovascular or clotting risk, due to its more favourable safety profile.
