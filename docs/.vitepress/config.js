@@ -1,6 +1,16 @@
 export default {
   title: 'DIY-HRT Wiki',
-  description: 'DIY HRT guides',
+  description: 'Comprehensive, evidence-based DIY HRT guides for the trans community — dosing, blood tests, injection safety, and more.',
+  head: [
+    ['meta', { property: 'og:title', content: 'DIY-HRT Wiki' }],
+    ['meta', { property: 'og:description', content: 'Comprehensive, evidence-based DIY HRT guides for the trans community — dosing, blood tests, injection safety, and more.' }],
+    ['meta', { property: 'og:image', content: '/og-image.png' }],
+    ['meta', { property: 'og:url', content: 'https://transdiy.github.io/' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+  ],
   themeConfig: {
     sidebar: [
       // ========== TRANS FEMALE GUIDE ==========
