@@ -110,8 +110,8 @@ Conversely, some trans women see good changes at E2 levels below 100 pg/mL. Targ
 
 ## References
 
-1. <a id="ref-1"></a>Hembree WC, et al. (2017). *Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons.* JCEM. [https://academic.oup.com/jcem/article/102/11/3869/4157558](https://academic.oup.com/jcem/article/102/11/3869/4157558)
+1. <a id="ref-1"></a>Hembree WC, et al. (2017). *Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society Clinical Practice Guideline.* JCEM, 102(11):3869–3903. [https://academic.oup.com/jcem/article/102/11/3869/4157558](https://academic.oup.com/jcem/article/102/11/3869/4157558)
 
-2. <a id="ref-2"></a>WPATH (2022). *Standards of Care, Version 8.* [https://www.tandfonline.com/doi/full/10.1080/26895269.2022.2100644](https://www.tandfonline.com/doi/full/10.1080/26895269.2022.2100644)
+2. <a id="ref-2"></a>Coleman E, et al. (2022). *Standards of Care for the Health of Transgender and Gender Diverse People, Version 8.* International Journal of Transgender Health, 23(S1). [https://www.tandfonline.com/doi/full/10.1080/26895269.2022.2100644](https://www.tandfonline.com/doi/full/10.1080/26895269.2022.2100644)
 
 3. <a id="ref-3"></a>UCSF Transgender Care. *Feminising hormone therapy — monitoring.* [https://transcare.ucsf.edu/guidelines](https://transcare.ucsf.edu/guidelines)

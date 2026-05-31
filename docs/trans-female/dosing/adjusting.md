@@ -102,4 +102,6 @@ High SHBG is often caused by **high oral estrogen doses**. Switching to transder
 
 1. <a id="ref-1"></a>UCSF Transgender Care. *Feminising hormone therapy — dose adjustments.* [https://transcare.ucsf.edu/guidelines](https://transcare.ucsf.edu/guidelines)
 
-2. <a id="ref-2"></a>Hembree WC, et al. (2017). *Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons.* JCEM. [https://academic.oup.com/jcem/article/102/11/3869/4157558](https://academic.oup.com/jcem/article/102/11/3869/4157558)
+2. <a id="ref-2"></a>Hembree WC, et al. (2017). *Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society Clinical Practice Guideline.* JCEM, 102(11):3869–3903. [https://academic.oup.com/jcem/article/102/11/3869/4157558](https://academic.oup.com/jcem/article/102/11/3869/4157558)
+
+3. <a id="ref-3"></a>Coleman E, et al. (2022). *Standards of Care for the Health of Transgender and Gender Diverse People, Version 8.* International Journal of Transgender Health, 23(S1). [https://www.tandfonline.com/doi/full/10.1080/26895269.2022.2100644](https://www.tandfonline.com/doi/full/10.1080/26895269.2022.2100644)
