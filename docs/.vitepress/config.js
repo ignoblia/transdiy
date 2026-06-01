@@ -11,7 +11,6 @@ export default {
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   ],
-  theme: './theme/index.ts',
   themeConfig: {
     sidebar: [
       // ========== TRANS FEMALE GUIDE ==========
@@ -228,13 +227,6 @@ export default {
     { text: 'Mental Health Resources', link: '/community/mental-health' },
     { text: 'Harm Reduction Groups', link: '/community/harm-reduction-groups' },
     { text: 'Contributing to this Wiki', link: '/community/contributing' }
-  ]
-},
-{
-  text: '🎨 Appearance & Themes',
-  collapsed: false,
-  items: [
-    { text: 'Theme Selection', link: '/theme' }
   ]
 },
 {
