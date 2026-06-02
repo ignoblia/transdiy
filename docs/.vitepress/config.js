@@ -12,6 +12,10 @@ export default {
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   ],
   themeConfig: {
+    nav: [
+      { text: 'What is DIYHRT', link: '/what-is-diymhrt' },
+      { text: 'Safety Resources', link: '/safety-resources' }
+    ],
     sidebar: [
       // ========== TRANS FEMALE GUIDE ==========
       {
