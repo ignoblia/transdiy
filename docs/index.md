@@ -6,11 +6,11 @@ hero:
   tagline: "A comprehensive guide to Do-It-Yourself Hormone Replacement Therapy"
   actions:
     - theme: brand
-      text: Trans Male Guide
-      link: /trans-male
+      text: What is DIY?
+      link: /what-is-diymhrt
     - theme: alt
-      text: Trans Female Guide
-      link: /trans-female
+      text: DIY Sources
+      link: /safety-resources
 
 features:
   - title: 🏳️‍⚧️ Trans Male Guide

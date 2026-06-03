@@ -13,8 +13,7 @@ export default {
   ],
   themeConfig: {
     nav: [
-      { text: 'what is diyhrt', link: '/what-is-diymhrt' },
-      { text: 'diyhrt sources', link: '/safety-resources' }
+      { text: '🐙 GitHub', link: 'https://github.com/ignoblia' }
     ],
     sidebar: [
       // ========== TRANS FEMALE GUIDE ==========
