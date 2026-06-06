@@ -13,9 +13,35 @@ export default {
     ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   ],
   themeConfig: {
+    logo: '/logo.svg',
     nav: [
-      { text: '🐙 GitHub', link: 'https://github.com/ignoblia' }
+      { text: 'Home', link: '/' },
+      { text: 'Trans Female Guide', link: '/trans-female/intro/what-is-hrt' },
+      { text: 'Trans Male Guide', link: '/trans-male/intro/what-is-hrt' },
+      { text: 'Guides', items: [
+        { text: 'Blood Testing', link: '/blood-testing' },
+        { text: 'Injection Safety', link: '/injection-safety' },
+        { text: 'Harm Reduction', link: '/harm-reduction' },
+        { text: 'Sourcing & Suppliers', link: '/sources/trans-female-vendors' }
+      ]},
+      { text: 'Community', link: '/community/discord' }
     ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/ignoblia' }
+    ],
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: { buttonText: 'Search', buttonAriaLabel: 'Search' }
+        }
+      }
+    },
+    editLink: {
+      pattern: 'https://github.com/ignoblia/transdiy/edit/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
+    lastUpdated: 'Last Updated',
     sidebar: [
       // ========== TRANS FEMALE GUIDE ==========
       {

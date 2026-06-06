@@ -1,0 +1,43 @@
+/* ===== TransIT-style FMHY Blue Theme ===== */
+/* Matches the color scheme of ignoblia.github.io/transit/ */
+
+:root {
+  --fmhy-blue: hsl(211, 63%, 61%);
+  --fmhy-blue-dark: hsl(215, 57%, 53%);
+  --fmhy-blue-darker: hsl(220, 48%, 40%);
+  --fmhy-blue-soft: hsl(207, 65%, 68%);
+
+  --vp-c-brand-1: var(--fmhy-blue);
+  --vp-c-brand-2: var(--fmhy-blue-dark);
+  --vp-c-brand-3: var(--fmhy-blue-darker);
+  --vp-c-brand-soft: var(--fmhy-blue-soft);
+}
+
+/* Custom block styling */
+:root {
+  --vp-custom-block-tip-bg: color-mix(in srgb, var(--fmhy-blue-soft) 25%, transparent);
+  --vp-custom-block-tip-text: var(--fmhy-blue-dark);
+  --vp-custom-block-tip-border: var(--fmhy-blue);
+  --vp-custom-block-warning-bg: color-mix(in srgb, #f59e0b 15%, transparent);
+  --vp-custom-block-warning-text: #d97706;
+  --vp-custom-block-warning-border: #f59e0b;
+  --vp-custom-block-danger-bg: color-mix(in srgb, #ef4444 12%, transparent);
+  --vp-custom-block-danger-text: #dc2626;
+  --vp-custom-block-danger-border: #ef4444;
+}
+
+/* Hero section tweaks */
+.VPHomeHero .clip {
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+/* Feature card icons should use brand color */
+.VPFeature .icon {
+  color: var(--fmhy-blue);
+}
+
+/* Sidebar active link */
+.vp-sidebar .active .link {
+  color: var(--fmhy-blue) !important;
+}
