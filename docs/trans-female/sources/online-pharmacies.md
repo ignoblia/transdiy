@@ -79,6 +79,43 @@ Online pharmacies are a common source of HRT medications for trans women, especi
 - Contact the seller (some will replace or refund)
 - Report to the community to warn others
 
+## Homebrew Suppliers (Injectable Estradiol)
+
+Homebrew injectable estradiol is the most common way to access affordable injected E for trans feminine HRT. Unlike testosterone, estradiol is **not a controlled substance** in most countries, which significantly reduces legal risk for both suppliers and buyers.
+
+### Active Homebrew Suppliers (as of June 2026)
+
+Source: [diyhrt.market](https://diyhrt.market/)
+
+| Supplier | Ships From | Payment | Products | Est. Price | Status |
+|----------|-----------|---------|----------|-----------|--------|
+| **AstroVials** | France | Crypto, WISE | EEn, EV injections | ~$50–75/vial | ✅ Active |
+| **EstraPen** | EU | Crypto, WISE | EEn injections | ~$60/vial | ✅ Active |
+| **Hera HRT** | US | Crypto, WISE | EEn, EU injections | $60–80/vial | ✅ Active |
+| **Otokonoko Pharmacy** | Brazil | Crypto | EV, EEn injections | $60–75/vial | ✅ Active (some trust concerns about process) |
+| **Symphony Labs** | US, UK, EU | Crypto | E injections | — | ✅ Active |
+| **Allie's HRT** | US | — | E injections | — | ✅ Active (mutual aid organisation) |
+
+### Recently Closed Homebrewers
+
+| Supplier | Was Based In | Notes |
+|----------|-------------|-------|
+| Felicitas | Germany | Closed |
+| Girlpotion | Sweden | Closed — had excellent reputation |
+| Vanna Pharma | UK | Closed — was reliable |
+| Voix Céleste | Netherlands/Germany | Suspended |
+| Open Gate Labs | — | Removed from diyhrt.market (May 2026) |
+
+### How to Order From Homebrewers
+
+1. Visit the supplier's website or contact them via their listed channels
+2. Browse available products (usually EV, EEn, or EC at 10–40 mg/mL)
+3. Place an order — most accept cryptocurrency or WISE
+4. Receive shipping confirmation with tracking (usually 1–3 weeks)
+5. Test your E2 levels after 4–6 weeks to verify dosing
+
+---
+
 ## DIY Sourcing Tables
 
 ::: tip Shipping Times
