@@ -9,8 +9,7 @@ export default {
     ['meta', { property: 'og:url', content: 'https://ignoblia.github.io/transdiy/' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/transdiy/favicon.svg' }],
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/transdiy/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/transdiy/logo.svg' }],
   ],
   themeConfig: {
     logo: '/logo.svg',
