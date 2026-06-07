@@ -44,11 +44,36 @@ Homebrew refers to estradiol injectable solutions made by community members (not
 
 ## Sterile Technique When Using Homebrew
 
-- Always wipe vial septum with 70% isopropyl alcohol before drawing
-- Use a new needle and syringe for each injection
-- Do not share vials with others
-- Store at room temperature, away from light
-- Discard if you see cloudiness, floating particles, or discolouration
+Homebrew injectables require stricter safety precautions than pharmaceutical products because they are not manufactured in regulated clean-room conditions.
+
+### Before You Inject: 0.22 μm Syringe Filtration (Required)
+
+::: danger This step is mandatory for all homebrew injectables
+Always filter homebrew injectable solutions through a **0.22 μm sterile syringe filter** before injection. This is the single most important additional safety step for homebrew users.
+
+A 0.22 μm membrane filter (also written as 0.2 μm) removes bacteria, fungal spores, and particles from the solution before it enters your body. Skipping this step significantly increases the risk of local infection (abscess, cellulitis) and systemic infection (sepsis).
+
+**What to buy:** Sterile, single-use syringe filters, 0.22 μm pore size, PES (polyethersulfone) or PVDF membrane. Available from Amazon, eBay, lab supply retailers. Buy packs of individually wrapped sterile units. Do NOT reuse filters.
+
+**How to use:**
+1. Draw your dose with an 18–20G drawing needle.
+2. Remove the drawing needle.
+3. Attach the syringe filter to the tip of the syringe.
+4. Slowly push the plunger through the filter — collect in a new sterile syringe **or** attach your injection needle directly to the filter output port.
+5. Detach the filter and attach your injection needle.
+6. Proceed with injection as normal.
+
+**Important:** If the oil is very viscous and hard to push through, warm the vial first. Use a fresh filter if you feel significant resistance mid-push (the filter may have loaded with particulates).
+:::
+
+### Additional Homebrew Precautions
+
+- Always wipe the vial septum with 70% isopropyl alcohol before drawing. Allow it to dry (10 seconds).
+- Use a new needle and syringe for every injection.
+- Do not share vials with others — this introduces contamination risk.
+- Inspect the vial each time: discard if you see cloudiness, floating particles, colour change, or broken seal.
+- Store at room temperature (15–25°C), away from direct light.
+- Follow the brewer's stated shelf life (typically 1–2 years sealed; 28 days after first puncture is the pharmaceutical standard).
 
 ## References
 

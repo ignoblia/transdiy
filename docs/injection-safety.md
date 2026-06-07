@@ -89,7 +89,7 @@ This is the easiest site for self-injection because you can see what you are doi
 Divide the buttock into four quadrants. Inject into the upper outer quadrant only. The lower inner quadrant contains the sciatic nerve and major blood vessels. This site is hard to reach for self-injection and is better done by another person.
 
 ::: warning Dorsogluteal site not recommended
-The CDC and WHO explicitly removed the dorsogluteal (upper outer buttock) site from recommended injection sites in their 2023 guideline updates due to sciatic nerve proximity risk. The ventrogluteal or thigh sites are preferred for self-injection.
+Current CDC and WHO injection guidelines recommend against the dorsogluteal (upper outer buttock) injection site due to its proximity to the sciatic nerve and gluteal vessels. The ventrogluteal or vastus lateralis (thigh) sites are preferred for self-injection. Do not inject into the lower inner or center of the buttock.
 :::
 
 ### Abdomen (SC)
@@ -109,6 +109,21 @@ The outer upper arm and the front/outer thigh can also be used for SC injections
 3. If the medication has been refrigerated, let it sit at room temperature for 10-15 minutes. Cold oil is thicker and hurts more.
 4. Check the vial for visible particles, discoloration, or cracks. Do not use if anything looks wrong.
 5. Clean the vial stopper with an alcohol swab. Let it dry (at least 10 seconds).
+
+::: danger Homebrew Injectables: Syringe Filter Required
+If using a homebrew injectable (not a pharmaceutical vial with a sealed rubber stopper from a licensed manufacturer), you **must** filter the drawn solution through a **0.22 μm (0.2 μm) sterile syringe filter** before injecting.
+
+**Why:** Homebrew preparations are not manufactured under pharmaceutical clean-room conditions. A 0.22 μm filter sterilises the solution of bacteria, fungal spores, and many particulates that could cause injection-site infections, abscesses, or systemic sepsis.
+
+**How:**
+1. Draw your dose with the drawing needle as normal.
+2. Remove the drawing needle and attach a sterile 0.22 μm PES or PVDF syringe filter (available from lab supply stores, Amazon, etc.).
+3. Slowly push the solution through the filter into a second sterile syringe OR attach your injection needle directly to the filter output port.
+4. Replace the filter with your injection needle and proceed.
+5. If you feel strong resistance while pushing, the filter may be saturated — use a fresh filter.
+
+**Note:** 0.22 μm filters are **not** needed for sealed pharmaceutical vials (e.g., Depo-Estradiol, Delestrogen) which are already sterile. They are required for homebrew and any solution drawn from non-pharmaceutical vials.
+:::
 
 ### Drawing the Medication
 
@@ -136,7 +151,7 @@ The outer upper arm and the front/outer thigh can also be used for SC injections
 **For IM injections**:
 1. Stretch the skin flat at the injection site using your non-dominant hand (Z-track method).
 2. Insert the needle at a 90-degree angle with a quick, steady motion.
-3. Do not aspirate (pull back the plunger). Modern guidelines from the CDC, WHO, and American Medical Association recommend against aspiration for IM and SC injections because it does not improve safety and adds unnecessary pain. (Note: this guidance is well-established for vaccines; for oil-based hormone injections it is a widely-adopted extrapolation from vaccine evidence rather than a directly mandated guideline, though the practical recommendation is the same.) If you see blood in the syringe after insertion, you have hit a blood vessel. Withdraw, apply pressure, and try a new site with a fresh needle.
+3. **Do not aspirate (pull back the plunger).** Modern guidelines from the CDC, WHO, and AMA recommend against routine aspiration for IM and SC injections — it does not improve safety and increases injection pain. If blood appears in the needle hub during insertion (rare, indicating a vessel is under pressure), withdraw the needle immediately, apply pressure for 1–2 minutes, and use a fresh needle at a different site.
 4. Inject slowly. Aim for about 10 seconds per 0.5 mL. Faster injection causes more pain and tissue damage.
 5. Wait 5 seconds after finishing before withdrawing.
 6. Withdraw the needle at the same angle it went in.
@@ -254,6 +269,6 @@ Pulmonary oil embolism is rare but serious. Symptoms include sudden coughing, sh
 
 1. <a id="ref-1"></a>CDC. *Safe injection practices.* [https://www.cdc.gov/injectionsafety/](https://www.cdc.gov/injectionsafety/)
 2. <a id="ref-2"></a>UCSF Transgender Care. *Injection guide.* [https://transcare.ucsf.edu/](https://transcare.ucsf.edu/)
-3. <a id="ref-3"></a>WHO. *WHO guideline on the use of safety-engineered syringes for intramuscular, intradermal and subcutaneous injections in health care settings.*
-4. <a id="ref-4"></a>American Medical Association. *Aspiration before injection: no longer recommended.*
+3. <a id="ref-3"></a>WHO. *WHO guideline on the use of safety-engineered syringes for intramuscular, intradermal and subcutaneous injections in health care settings.* [https://www.who.int/publications/i/item/9789241549820](https://www.who.int/publications/i/item/9789241549820)
+4. <a id="ref-4"></a>American Medical Association. *Aspiration before injection: no longer recommended.* [https://www.cdc.gov/injectionsafety/](https://www.cdc.gov/injectionsafety/)
 5. <a id="ref-5"></a>TransHarmReduction. *Injection safety guide.* [https://www.transharmreduction.org/](https://www.transharmreduction.org/)

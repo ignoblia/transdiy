@@ -11,8 +11,8 @@ The following targets are based on Endocrine Society guidelines and WPATH SOC8 r
 
 | Hormone | Target Range | Why |
 |---------|-------------|-----|
-| **Estradiol (E2)** | **100–200 pg/mL** | Feminisation, bone health, T suppression |
-| **Testosterone (T)** | **< 50 ng/dL** | Suppress masculine traits |
+| **Estradiol (E2)** | **100–200 pg/mL (367–734 pmol/L)** | Feminisation, bone health, T suppression |
+| **Testosterone (T)** | **< 50 ng/dL (< 1.73 nmol/L)** | Suppress masculine traits |
 | **SHBG** | **40–120 nmol/L** (normal); > 150 nmol/L indicates excess binding | High SHBG binds free hormones, reducing effectiveness |
 
 ## Secondary Targets

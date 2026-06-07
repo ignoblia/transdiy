@@ -59,13 +59,13 @@ Regular blood tests are the single most important harm reduction practice for DI
 
 | Marker | What It Tells You | Target Range (Trans Fem) | Target Range (Trans Masc) |
 |--------|-------------------|--------------------------|---------------------------|
-| **E2 (Estradiol)** | Oestrogen level | 100–200 pg/mL |  -  |
+| **E2 (Estradiol)** | Oestrogen level | 100–200 pg/mL (367–734 pmol/L) |  -  |
 | **E1 (Estrone)** | Oestrogen metabolite (oral E2) | Not routinely needed — see note below |  -  |
-| **Total T (Testosterone)** | Testosterone level | < 50 ng/dL | 300–1000 ng/dL |
+| **Total T (Testosterone)** | Testosterone level | < 50 ng/dL (< 1.73 nmol/L) | 300–1000 ng/dL (10.4–34.7 nmol/L) |
 | **Free T** | Active, unbound testosterone |  -  | Mid-upper normal range |
 | **SHBG** | Hormone binding protein | 40–120 nmol/L | 10–50 nmol/L |
 | **LH / FSH** | Pituitary function | Suppressed |  -  |
-| **Prolactin** | Pituitary activity (monitor on CPA) | < 25 ng/mL |  -  |
+| **Prolactin** | Pituitary activity (monitor on CPA) | < 25 ng/mL (< 530 mIU/L) |  -  |
 | **Haematocrit (HCT)** | Red blood cell concentration | < 48% | < 54% |
 | **ALT / AST** | Liver function | Within lab range | Within lab range |
 | **Creatinine / eGFR** | Kidney function | Within lab range | Within lab range |

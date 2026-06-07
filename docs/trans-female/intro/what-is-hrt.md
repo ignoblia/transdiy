@@ -63,8 +63,8 @@ If you are considering having biological children in the future, discuss sperm/g
 ## Key Hormone Targets & Monitoring
 
 For feminising GAHT, the Endocrine Society and WPATH SOC8 recommend targeting:
-- **Testosterone (T)** — below **50 ng/dL**
-- **Estradiol (E2)** — in the cisgender female range, typically **100–200 pg/mL**
+- **Testosterone (T)** — below **50 ng/dL (< 1.73 nmol/L)**
+- **Estradiol (E2)** — in the cisgender female range, typically **100–200 pg/mL (367–734 pmol/L)**
 
 Achieving both targets simultaneously is not always possible. [A Mount Sinai study of 1,195 trans feminine individuals](https://pmc.ncbi.nlm.nih.gov/articles/PMC10554830/) found that:
 - Nearly half (43%) of people with E2 below target (<100 pg/mL) still achieved T suppression below 50 ng/dL.
@@ -139,7 +139,7 @@ The most serious known adverse effect of feminising hormone therapy is **venous 
 - **Stop smoking** — smoking independently raises VTE and cardiovascular risk, and the combination with oral estrogen is particularly concerning. <sup>[[2]](#ref-2)</sup>
 - **Maintain a healthy weight** and stay physically active to reduce baseline cardiovascular and thrombotic risk.
 - **Monitor blood pressure and lipids** regularly as recommended by your provider. <sup>[[3]](#ref-3)</sup>
-- **If taking spironolactone**, have potassium checked every 3 months in the first year, then annually. Risk of clinically significant hyperkalemia is low in otherwise healthy individuals under 45, but increases with age. <sup>[[7]](#ref-7)</sup> Note: while the Warnock et al. (2022) study suggests routine monitoring may be unnecessary in those under 45 without risk factors, the Endocrine Society's official guidelines still recommend 3-monthly monitoring for all patients — this is emerging evidence challenging current protocol, not yet the standard.
+- **If taking spironolactone**, have potassium checked every 3 months in the first year, then annually. Risk of clinically significant hyperkalemia is low in otherwise healthy individuals under 45, but increases with age. <sup>[[7]](#ref-7)</sup> Note: while the Hayes et al. (2022) study suggests routine monitoring may be unnecessary in those under 45 without risk factors, the Endocrine Society's official guidelines still recommend 3-monthly monitoring for all patients — this is emerging evidence challenging current protocol, not yet the standard.
 - **Before major surgery**, discuss with your provider whether to temporarily pause oral estrogen — practices vary between clinicians and institutions. <sup>[[1]](#ref-1)</sup>
 
 ## Is HRT Safe?
@@ -191,11 +191,11 @@ Physical changes are typically **fully apparent within 3–5 years**. Individual
 
 The following sources are cited in the [Side Effects & Risks](#side-effects-risks) section.
 
-1. <a id="ref-1"></a>Connelly PJ et al. (2021). *Managing the risk of venous thromboembolism in transgender adults undergoing hormone therapy.* PMC. [https://pmc.ncbi.nlm.nih.gov/articles/PMC6628137/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6628137/)
+1. <a id="ref-1"></a>Safer JD et al. (2019). *Managing the risk of venous thromboembolism in transgender adults undergoing hormone therapy.* Journal of Blood Medicine. [https://pmc.ncbi.nlm.nih.gov/articles/PMC6628137/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6628137/)
 
 2. <a id="ref-2"></a>Patel N et al. (2024). *Gender-affirming hormone therapy in the transgender patient: influence on thrombotic risk.* PMC. [https://pmc.ncbi.nlm.nih.gov/articles/PMC11665511/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11665511/)
 
-3. <a id="ref-3"></a>Connelly PJ et al. (2021). *Blood pressure effects of gender-affirming hormone therapy in transgender and gender-diverse adults.* Hypertension (AHA). [https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16839](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16839)
+3. <a id="ref-3"></a>Banks K, Kyinn M, Leemaqz SY et al. (2021). *Blood pressure effects of gender-affirming hormone therapy in transgender and gender-diverse adults.* Hypertension (AHA). [https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16839](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.120.16839)
 
 4. <a id="ref-4"></a>Irwig MS. (2020). *Cardiovascular health in transgender people.* JCEM. [https://academic.oup.com/jcem/article/105/3/e894/5658514](https://academic.oup.com/jcem/article/105/3/e894/5658514)
 
@@ -203,4 +203,4 @@ The following sources are cited in the [Side Effects & Risks](#side-effects-risk
 
 6. <a id="ref-6"></a>de Blok CJM et al. (2019). *Breast cancer risk in transgender people receiving hormone treatment: nationwide cohort study in the Netherlands.* BMJ. [https://www.bmj.com/content/365/bmj.l1652](https://www.bmj.com/content/365/bmj.l1652)
 
-7. <a id="ref-7"></a>Warnock JK et al. (2022). *The utility of monitoring potassium in transgender, gender diverse, and nonbinary individuals on spironolactone.* Oxford Academic. [https://scholarworks.indianapolis.iu.edu/items/cd3646fe-ea49-416d-a289-6c7381f1c5bd](https://scholarworks.indianapolis.iu.edu/items/cd3646fe-ea49-416d-a289-6c7381f1c5bd)
+7. <a id="ref-7"></a>Hayes H, Russell R, Haugen A, Nagavally S, Sarvaideo J. (2022). *The utility of monitoring potassium in transgender, gender diverse, and nonbinary individuals on spironolactone.* Journal of the Endocrine Society. [https://academic.oup.com/jes/article/6/11/bvac133/6696042](https://academic.oup.com/jes/article/6/11/bvac133/6696042)

@@ -31,18 +31,18 @@ Blood tests are the single most important harm reduction practice for DIY HRT. W
 | Lipid panel | Cholesterol, triglycerides |
 | Prolactin | Baseline (especially important if using CPA) |
 
-### On HRT  -  First Year (Every 3 Months)
+### On HRT — First Year (Every 3 Months)
 
-| Test | Target (Trans Fem) | Target (Trans Masc) |
-|------|-------------------|---------------------|
-| **E2** | 100–200 pg/mL | < 50 pg/mL |
-| **Total T** | < 50 ng/dL | 300–1,000 ng/dL |
-| **Free T** |  -  | Mid-to-upper normal range |
-| **SHBG** | 40–120 nmol/L (normal; > 150 signals excess binding) | 10–50 nmol/L |
-| **CBC** | Normal | HCT < 54% |
-| **CMP** | Normal | Normal |
-| **Prolactin** | Normal (< 25 ng/mL) | N/A |
-| **Lipid panel** | Monitor changes | Monitor changes |
+| Test            | Target (Trans Feminine)                                           | Target (Trans Masculine)             |
+| --------------- | ----------------------------------------------------------------- | ------------------------------------ |
+| **E2**          | 100–200 pg/mL **(367–734 pmol/L)**                                | < 50 pg/mL **(< 184 pmol/L)**        |
+| **Total T**     | < 50 ng/dL **(< 1.73 nmol/L)**                                    | 300–1,000 ng/dL **(10.4–34.7 nmol/L)** |
+| **Free T**      | —                                                                 | Mid-to-upper normal range            |
+| **SHBG**        | 40–120 nmol/L (> 150 nmol/L signals excess binding)              | 10–50 nmol/L                         |
+| **CBC**         | Normal                                                            | HCT < 54%                            |
+| **CMP**         | Normal                                                            | Normal                               |
+| **Prolactin**   | < 25 ng/mL **(< 530 mIU/L)**                                      | N/A                                  |
+| **Lipid panel** | Monitor changes                                                   | Monitor changes                      |
 
 ### After Stabilisation (Every 6–12 Months)
 
@@ -52,6 +52,7 @@ Same panel as above, plus any additional markers your specific regimen requires 
 
 | Tip | Detail |
 |-----|--------|
+| **Test at trough for injectable E2** | For injections, test just before your next injection (lowest point). Optionally test at peak (24–48 h post-injection for EV; 3–5 days post-injection for EC/EEn) to confirm your E2 is not supraphysiologic (> 400 pg/mL / 1,470 pmol/L). |
 | **Test at trough** | The lowest point in your dosing cycle  -  just before your next dose for injections, first thing in the morning for transdermal/oral. |
 | **Use the same lab** | Different labs use different assays; consistency gives you comparable results over time. |
 | **Avoid biotin** | Stop biotin-containing supplements 3–5 days before testing  -  it skews immunoassay results (LC-MS/MS is not affected by biotin, so if your lab uses LC-MS/MS this precaution is unnecessary). |
@@ -211,26 +212,26 @@ Blood tests can be accessed through **public healthcare systems** (free or low-c
 
 ## Key Markers Explained
 
-### For Trans Women / Trans Fem People
+### For Trans Feminine People
 
-| Marker | Target | If Too Low | If Too High |
-|--------|--------|------------|-------------|
-| **E2** | 100–200 pg/mL | Poor feminisation, low mood, hot flushes | VTE risk, mood changes, high SHBG (which binds E2 and reduces its effectiveness) |
-| **Total T** | < 50 ng/dL | (N/A)  -  lower is generally the goal | Masculinisation continues, androgenic side effects |
-| **E1 (Estrone)** | Not routinely needed | Elevated with oral E2 due to first-pass metabolism | WPATH SOC8 states estrone/estradiol ratios need not be measured. Recent evidence does not support the claim that high E1:E2 ratios impair feminisation. Switching to parenteral routes (injections, patches, gel) avoids high E1 levels. |
-| **SHBG** | 40–120 nmol/L | Below 40: free E2 may be higher than expected | > 150 nmol/L binds too much E2, reducing effectiveness  -  reduce E2 dose if high |
-| **Prolactin** | < 25 ng/mL | Normal | CPA side effect; risk of prolactinoma if persistently > 100 ng/mL |
-| **HCT** | < 48% | Normal | Polycythaemia risk  -  rare on E alone |
+| Marker           | Target                                     | If Too Low                                         | If Too High                                                                                                    |
+| ---------------- | ------------------------------------------ | -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **E2**           | 100–200 pg/mL **(367–734 pmol/L)**         | Poor feminisation, low mood, hot flushes           | Elevated VTE risk, mood changes, high SHBG (binding E2, reducing effectiveness)                                |
+| **Total T**      | < 50 ng/dL **(< 1.73 nmol/L)**             | N/A — lower is the goal                            | Continued masculinisation, androgenic side effects                                                             |
+| **E1 (Estrone)** | Not routinely needed                       | —                                                  | WPATH SOC8: E1:E2 ratio need not be measured; no evidence it impairs feminisation. Parenteral routes avoid high E1. |
+| **SHBG**         | 40–120 nmol/L                              | Below 40: free E2 may be higher than expected      | > 150 nmol/L: binds too much E2 — paradoxically, reducing E2 dose may free up more bioavailable E2            |
+| **Prolactin**    | < 25 ng/mL **(< 530 mIU/L)**              | Normal                                             | CPA side effect; risk of prolactinoma if persistently > 100 ng/mL (> 2,120 mIU/L)                             |
+| **HCT**          | < 48%                                      | Normal                                             | Polycythaemia risk — rare on E alone                                                                           |
 
-### For Trans Men / Trans Masc People
+### For Trans Masculine People
 
-| Marker | Target | If Too Low | If Too High |
-|--------|--------|------------|-------------|
-| **Total T** | 300–1,000 ng/dL | Poor masculinisation, fatigue, low libido | Polycythaemia, irritability/aggression, acne, scalp hair loss, high E2 (from aromatisation) |
-| **Free T** | Mid-to-upper normal range | Symptoms of low T despite normal total T | Androgenic side effects  -  check SHBG if this is disproportionate |
-| **E2** | < 50 pg/mL | (N/A) | High T → aromatisation to E2 → possible oestrogenic effects (mood changes, water retention) |
-| **HCT** | < 54% | Normal | Polycythaemia  -  donate blood if high; reduce T dose if persistent |
-| **SHBG** | 10–50 nmol/L | May cause high free T symptoms | Lowers free T availability |
+| Marker      | Target                                           | If Too Low                                | If Too High                                                                                 |
+| ----------- | ------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Total T** | 300–1,000 ng/dL **(10.4–34.7 nmol/L)**          | Poor masculinisation, fatigue, low libido | Polycythaemia, irritability, acne, scalp hair loss, high E2 (aromatisation)                 |
+| **Free T**  | Mid-to-upper normal range                        | Symptoms of low T despite normal total T  | Androgenic side effects — check SHBG if disproportionate                                   |
+| **E2**      | < 50 pg/mL **(< 184 pmol/L)**                   | N/A                                       | High T → aromatisation → possible oestrogenic effects (mood changes, water retention)      |
+| **HCT**     | < 54%                                            | Normal                                    | Polycythaemia — donate blood if elevated; reduce T dose if persistent                       |
+| **SHBG**    | 10–50 nmol/L                                     | May cause high free T symptoms            | Lowers free T availability                                                                  |
 
 ## Understanding Your Results
 
@@ -255,6 +256,10 @@ Blood tests can be accessed through **public healthcare systems** (free or low-c
 ## SHBG Explained
 
 Sex hormone-binding globulin (SHBG) is a protein produced by the liver that binds to oestradiol and testosterone, making them unavailable to tissues. Only the unbound (free) fraction is biologically active.
+
+::: tip SHBG: target vs. interpretation
+The "On HRT" table above shows **40–120 nmol/L** as the typical range for trans feminine people. This is a *typical* range, not a strict target — values slightly outside this range may still be fine depending on your overall picture. The interpretation table below gives clinical meaning to values below 40, within 40–120, and above 150 nmol/L.
+:::
 
 ### How HRT Affects SHBG
 
@@ -316,13 +321,13 @@ Prolactin is a pituitary hormone that can rise on oestrogen therapy, especially 
 
 ### Prolactin Levels and Action
 
-| Level | Risk | Action |
-|-------|------|--------|
-| < 25 ng/mL | Normal | No action needed |
-| 25-50 ng/mL | Mild elevation | Monitor. Common on E + CPA. Recheck in 3 months. |
-| 50-100 ng/mL | Moderate elevation | Consider reducing CPA dose or switching AA. Rule out other causes (stress, sleep, other meds). |
-| > 100 ng/mL | Significant elevation | Stop CPA. Switch to bicalutamide or monotherapy. Consider MRI to rule out prolactinoma. |
-| > 200 ng/mL | High concern | Likely prolactinoma. Needs endocrinology workup and MRI. |
+| Level                                    | Risk                  | Action                                                                                         |
+| ---------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------- |
+| < 25 ng/mL (< 530 mIU/L)                | Normal                | No action needed                                                                               |
+| 25–50 ng/mL (530–1,060 mIU/L)           | Mild elevation        | Monitor. Common on E + CPA. Recheck in 3 months.                                               |
+| 50–100 ng/mL (1,060–2,120 mIU/L)        | Moderate elevation    | Consider reducing CPA dose or switching AA. Rule out other causes (stress, sleep, other meds). |
+| > 100 ng/mL (> 2,120 mIU/L)             | Significant elevation | Stop CPA. Switch to bicalutamide or monotherapy. Consider MRI to rule out prolactinoma.        |
+| > 200 ng/mL (> 4,240 mIU/L)             | High concern          | Likely prolactinoma. Needs endocrinology workup and MRI.                                       |
 
 ### Reducing Prolactin
 
@@ -381,7 +386,7 @@ A simple spreadsheet (Google Sheets, Excel) or a notes app works well. Plotting 
 
 ## References
 
-1. <a id="ref-1"></a>UCSF Transgender Care. *Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People.*
-2. <a id="ref-2"></a>Hembree WC, et al. (2017). *Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society Clinical Practice Guideline.* JCEM.
-3. <a id="ref-3"></a>WPATH. *Standards of Care, Version 8.*
+1. <a id="ref-1"></a>UCSF Transgender Care. *Guidelines for the Primary and Gender-Affirming Care of Transgender and Gender Nonbinary People.* [https://transcare.ucsf.edu/guidelines](https://transcare.ucsf.edu/guidelines)
+2. <a id="ref-2"></a>Hembree WC, et al. (2017). *Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society Clinical Practice Guideline.* JCEM, 102(11):3869–3903. [https://academic.oup.com/jcem/article/102/11/3869/4157558](https://academic.oup.com/jcem/article/102/11/3869/4157558)
+3. <a id="ref-3"></a>WPATH. *Standards of Care, Version 8.* International Journal of Transgender Health, 23(S1). [https://www.tandfonline.com/doi/full/10.1080/26895269.2022.2100644](https://www.tandfonline.com/doi/full/10.1080/26895269.2022.2100644)
 4. <a id="ref-4"></a>TransHarmReduction. *Blood Testing Guide.* [https://www.transharmreduction.org/](https://www.transharmreduction.org/)

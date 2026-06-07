@@ -87,19 +87,20 @@ For EV, most people achieve T suppression at 4–6 mg every 5 days. For EEn, 4�
 3. Draw air into syringe (equal to your dose volume)
 4. Inject air into the vial
 5. Draw the correct dose volume
-6. Change to injection needle
-7. Clean injection site with alcohol swab
-8. Insert needle at 90° angle (IM)
-9. Do not aspirate (pull back plunger) — modern guidelines from the CDC, WHO, and AMA recommend against aspiration for IM and SC injections as it does not improve safety and adds unnecessary pain. If you see blood in the syringe after insertion, you have hit a vessel — withdraw, apply pressure, and try a new site with a fresh needle.
-10. Inject slowly
-11. Withdraw needle, apply pressure
-12. Dispose of needle safely in sharps container
+6. **If using homebrew:** Attach a 0.22 μm sterile syringe filter and push the solution through before attaching the injection needle. This removes bacteria, fungal spores, and particulates. (Not needed for sealed pharmaceutical vials.)
+7. Change to injection needle
+8. Clean injection site with alcohol swab
+9. Insert needle at 90° angle (IM)
+10. **Do not aspirate (pull back plunger).** Modern guidelines from the CDC, WHO, and AMA recommend against aspiration for IM and SC injections — it does not improve safety and adds unnecessary pain. If blood appears in the needle hub during insertion (rare), withdraw immediately, apply pressure for 1–2 minutes, and use a fresh needle at a new site.
+11. Inject slowly
+12. Withdraw needle, apply pressure
+13. Dispose of needle safely in sharps container
 
 ## Injection Frequency & Trough Levels
 
 - **Test at trough** — right before your next injection (lowest point of your cycle)
-- **Target trough E2**: 100–200 pg/mL per guidelines (higher for monotherapy, typically 200–300 pg/mL)
-- **Target T**: < 50 ng/dL
+- **Target trough E2**: 100–200 pg/mL (367–734 pmol/L) per guidelines (higher for monotherapy, typically 200–300 pg/mL)
+- **Target T**: < 50 ng/dL (< 1.73 nmol/L)
 - Test after at least 4 weeks on a stable dose
 - Note: Some people achieve T suppression even with E2 < 100 pg/mL, and not everyone with E2 above 200 pg/mL achieves T < 50 ng/dL. Individual response varies significantly.
 

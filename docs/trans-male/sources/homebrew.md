@@ -96,6 +96,21 @@ For practical purposes, **they are interchangeable**. The difference is negligib
 
 ## Sterile Technique When Using Homebrew
 
+::: danger Syringe Filter Required for Homebrew
+If your homebrew vial was not pre-filtered through a 0.22 μm membrane during production, you **must** filter the drawn solution through a **0.22 μm sterile syringe filter** before injecting.
+
+**Why:** Even well-brewed homebrew can contain bacteria, fungal spores, or particulates. A 0.22 μm filter sterilises the solution, preventing injection-site infections, abscesses, and sepsis.
+
+**How to use:**
+1. Draw your dose with the drawing needle as normal.
+2. Remove the drawing needle and attach a sterile 0.22 μm PES or PVDF syringe filter.
+3. Slowly push the solution through the filter into a second sterile syringe or attach your injection needle directly to the filter output port.
+4. Swap the filter for your injection needle and proceed.
+5. If you feel strong resistance, the filter may be saturated — use a fresh one.
+
+**Note:** 0.22 μm filters are available from lab supply stores, Amazon, or eBay. Buy individually wrapped sterile units. Do not reuse filters.
+:::
+
 ### Drawing and Injecting
 
 1. **Wash hands** thoroughly with soap and water
@@ -104,7 +119,7 @@ For practical purposes, **they are interchangeable**. The difference is negligib
 4. Draw air equal to your dose, inject into vial, then draw medication
 5. Change to a **new injection needle** before pinning (don't inject with the draw needle)
 6. Clean injection site with alcohol in a circular motion, let dry
-7. Inject at 90° angle (or 45° if subcutaneous), aspirate briefly, inject slowly
+7. Inject at 90° angle (or 45° if subcutaneous), inject slowly — **do not aspirate** (modern guidelines from CDC, WHO, and AMA recommend against routine aspiration)
 8. Dispose of sharps in a proper sharps container
 
 ### Vial Care
