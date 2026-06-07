@@ -268,5 +268,9 @@ export default {
   ]
 }
     ]
+  },
+  footer: {
+    message: '<strong>Legal disclaimer:</strong> This site is for educational and harm reduction purposes only. Importing prescription medications without a license may be illegal in your country. Testosterone is a controlled substance in most jurisdictions. This information is not a substitute for professional medical advice. You are solely responsible for understanding and complying with your local laws.',
+    copyright: 'Content contributed by the community. Not affiliated with any medical institution.'
   }
 }

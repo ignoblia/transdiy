@@ -51,12 +51,17 @@ Bicalutamide binds to androgen receptors with high affinity, preventing testoste
 | **Hepatotoxicity** | **Rare** | Requires liver monitoring |
 
 ::: warning Liver Function Monitoring
-Bicalutamide carries a small risk of hepatotoxicity (liver injury). While rare at HRT doses, guidelines recommend:
-- Baseline liver function test (ALT, AST)
-- Repeat at 3 months and 6 months
-- Annual monitoring thereafter
+Bicalutamide carries a small risk of hepatotoxicity (liver injury). While rare at HRT doses, adhere to the following monitoring schedule:
 
-If you develop jaundice (yellow skin/eyes), dark urine, or severe fatigue, stop bicalutamide and seek medical attention.
+| Time       | Test       | Action                              |
+| ---------- | ---------- | ----------------------------------- |
+| Baseline   | ALT, AST   | Establish baseline                  |
+| 1 month    | ALT, AST   | Early detection of rare reaction    |
+| 3 months   | ALT, AST   | Confirm safety                      |
+| 6 months   | ALT, AST   | Ongoing monitoring                  |
+| Annually   | ALT, AST   | Long-term safety                    |
+
+If you develop jaundice (yellow skin/eyes), dark urine, or severe fatigue, stop bicalutamide and seek medical attention immediately.
 :::
 
 ## Comparison

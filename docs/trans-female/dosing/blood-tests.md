@@ -36,8 +36,8 @@ A baseline establishes your natural hormone levels and health markers. Without i
 
 | Test | Target | Notes |
 |------|--------|-------|
-| **E2** | 100–200 pg/mL (trough) | Draw blood just before next dose |
-| **Total T** | < 50 ng/dL | |
+| **E2** | 100–200 pg/mL **(367–734 pmol/L)** (trough) | Draw blood just before next dose |
+| **Total T** | < 50 ng/dL **(< 1.73 nmol/L)** | |
 | **SHBG** | < 150 nmol/L | If elevated, consider route change |
 | **CBC** | Normal range | Anaemia monitoring |
 | **CMP** | Normal range | Liver/kidney function |

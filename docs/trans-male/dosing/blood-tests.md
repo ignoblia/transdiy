@@ -21,9 +21,9 @@ description: A complete guide to blood testing for masculinising hormone therapy
 
 | Test | Target |
 |------|--------|
-| Total T (trough) | 300–1,000 ng/dL |
+| Total T (trough) | 300–1,000 ng/dL **(10.4–34.7 nmol/L)** |
 | Free T | 50–200 pg/mL |
-| E2 | < 50 pg/mL |
+| E2 | < 50 pg/mL **(< 184 pmol/L)** |
 | CBC (HCT) | < 54% |
 | Blood pressure | < 130/80 |
 

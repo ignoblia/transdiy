@@ -30,6 +30,10 @@ CPA carries a **dose-dependent risk of meningioma** (a usually benign brain tumo
 | Maximum recommended | 12.5 mg/day | Higher doses increase meningioma risk |
 | Reduction attempt | Try 6.25 mg/day after 6–12 months | Some can reduce CPA once E2 is stable |
 
+::: danger Cumulative Dose Monitoring
+If you take CPA long-term, track your total lifetime dose. Meningioma risk increases significantly after **3+ years of use**, even at 10–12.5 mg/day. Consider switching to another anti-androgen (bicalutamide or estrogen monotherapy) once your T has been suppressed for 1–2 years.
+:::
+
 ## How It Works
 
 1. **Progestogenic activity** — CPA acts on progesterone receptors in the hypothalamus/pituitary, reducing GnRH, LH, and FSH output

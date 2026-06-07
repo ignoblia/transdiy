@@ -26,28 +26,28 @@ Approximate equivalent doses for achieving similar E2 levels:
 
 | Desired Trough E2 | Dose (every 5 days) | Notes |
 |-------------------|---------------------|-------|
-| 100 pg/mL | 2–3 mg | Below typical monotherapy threshold |
-| 150 pg/mL | 3–4 mg | May still need AA for T suppression |
-| 200 pg/mL | 4–6 mg | Monotherapy target for most people |
-| 250–300 pg/mL | 5–8 mg | Higher end rarely needed |
+| 100 pg/mL (367 pmol/L) | 2–3 mg | Below typical monotherapy threshold |
+| 150 pg/mL (551 pmol/L) | 3–4 mg | May still need AA for T suppression |
+| 200 pg/mL (734 pmol/L) | 4–6 mg | Monotherapy target for most people |
+| 250–300 pg/mL (918–1,101 pmol/L) | 5–8 mg | Higher end rarely needed |
 
 ### Estradiol Cypionate (EC)
 
 | Desired Trough E2 | Dose (every 7 days) | Notes |
 |-------------------|---------------------|-------|
-| 100 pg/mL | 2–3 mg | Below typical monotherapy threshold |
-| 150 pg/mL | 2–4 mg | May still need AA for T suppression |
-| 200 pg/mL | 3–5 mg | Monotherapy target for most people |
-| 250–300 pg/mL | 4–6 mg | Higher end rarely needed |
+| 100 pg/mL (367 pmol/L) | 2–3 mg | Below typical monotherapy threshold |
+| 150 pg/mL (551 pmol/L) | 2–4 mg | May still need AA for T suppression |
+| 200 pg/mL (734 pmol/L) | 3–5 mg | Monotherapy target for most people |
+| 250–300 pg/mL (918–1,101 pmol/L) | 4–6 mg | Higher end rarely needed |
 
 ### Estradiol Enanthate (EEn)
 
 | Desired Trough E2 | Dose (every 7 days) | Notes |
 |-------------------|---------------------|-------|
-| 100 pg/mL | 3–4 mg | Below typical monotherapy threshold |
-| 150 pg/mL | 4–5 mg | May still need AA for T suppression |
-| 200 pg/mL | 4–6 mg | Monotherapy target for most people |
-| 250–300 pg/mL | 6–8 mg | Higher end rarely needed |
+| 100 pg/mL (367 pmol/L) | 3–4 mg | Below typical monotherapy threshold |
+| 150 pg/mL (551 pmol/L) | 4–5 mg | May still need AA for T suppression |
+| 200 pg/mL (734 pmol/L) | 4–6 mg | Monotherapy target for most people |
+| 250–300 pg/mL (918–1,101 pmol/L) | 6–8 mg | Higher end rarely needed |
 
 > Recent evidence: Multisite studies (2024-2025) found the median effective weekly dose for achieving both target E2 and T suppression is around 4 mg (IQR 3-6 mg). Doses above 6 mg/week consistently produce supraphysiologic E2 levels in most people. Start low and titrate based on blood tests.
 > 

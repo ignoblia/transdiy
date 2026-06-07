@@ -9,9 +9,9 @@ description: Optimal hormone level targets for masculinising hormone therapy.
 
 | Marker | Target Range | Why |
 |--------|-------------|-----|
-| **Total T (trough)** | **300–1,000 ng/dL** | Male range |
+| **Total T (trough)** | **300–1,000 ng/dL (10.4–34.7 nmol/L)** | Male range |
 | **Free T** | **50–200 pg/mL** | Active fraction |
-| **E2** | **< 50 pg/mL** | Suppress feminising effects |
+| **E2** | **< 50 pg/mL (< 184 pmol/L)** | Suppress feminising effects |
 | **Hematocrit** | **< 54%** | Prevent polycythemia |
 
 ## What the Numbers Mean
