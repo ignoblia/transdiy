@@ -297,8 +297,8 @@ Trough levels are most useful for injection monotherapy — for determining if y
 ### Target Levels
 
 The most essential component of transfeminine HRT is to get:
-- **Total testosterone (T)** below **50 ng/dL**
-- **Estradiol (E2)** above **100 pg/mL**
+- **Total testosterone (T)** below **50 ng/dL (< 1.73 nmol/L)**
+- **Estradiol (E2)** above **100 pg/mL (367 pmol/L)**
 
 ---
 

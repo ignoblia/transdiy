@@ -1,4 +1,5 @@
 export default {
+  lang: 'en-US',
   title: 'DIY-HRT Wiki',
   description: 'Comprehensive, evidence-based DIY HRT guides for the trans community — dosing, blood tests, injection safety, and more.',
   base: '/transdiy/',

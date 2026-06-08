@@ -36,7 +36,7 @@ Monotherapy is **not effective for everyone**. Success depends on:
 | Transdermal patches | 200–300 mcg/24h | 150–250 pg/mL |
 | Gel | 6–8 pumps/day | 150–250 pg/mL |
 
-> Recent evidence (2024-2025 multisite studies) shows that most people achieve T suppression at the lower end of these ranges. Median effective weekly doses are around 4 mg (IQR 3-6 mg). Starting at 3-5 mg weekly and titrating up if needed is recommended to avoid supraphysiologic E2 levels.
+> Recent clinical evidence (multiple 2024-2025 cohort studies) shows that most people achieve T suppression at the lower end of these ranges. Median effective weekly doses are around 4 mg (IQR 3-6 mg). Starting at 3-5 mg weekly and titrating up if needed is recommended to avoid supraphysiologic E2 levels.
 
 ::: danger Do NOT attempt monotherapy with oral pills
 Oral estradiol at doses high enough to suppress T carries a significantly elevated VTE (blood clot) risk due to first-pass liver metabolism. Monotherapy should only be attempted with injectable or high-dose transdermal estradiol.
@@ -44,10 +44,12 @@ Oral estradiol at doses high enough to suppress T carries a significantly elevat
 
 ## Effectiveness
 
-- **~80% or more** of trans women achieve T < 50 ng/dL on injectable monotherapy (based on recent multisite studies)
+- **~80% or more** of trans women achieve T < 50 ng/dL on injectable monotherapy (based on recent cohort studies<sup data-emoji-title="">†</sup>)
 - Some still need a low-dose anti-androgen even with adequate E2
 - People with higher baseline T may need higher E2 doses
-- Recent evidence suggests spironolactone may not provide additional T suppression when combined with injectable E2, though it can still be useful for blocking androgen receptors
+- Some studies suggest spironolactone may not provide additional T suppression when combined with injectable E2, though it can still be useful for blocking androgen receptors<sup data-emoji-title="">†</sup>
+
+<small>† These findings come from recent observational cohorts (2024–2025). Specific citations were not included as the evidence continues to evolve; readers should consult the latest literature or community evidence summaries for current data.</small>
 
 ## Pros & Cons
 

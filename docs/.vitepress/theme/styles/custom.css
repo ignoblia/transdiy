@@ -1,6 +1,19 @@
 /* ===== TransIT-style FMHY Blue Theme ===== */
 /* Matches the color scheme of ignoblia.github.io/transit/ */
 
+/* Responsive tables: horizontal scroll on narrow viewports */
+.vp-doc table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  white-space: normal;
+  max-width: 100%;
+}
+.vp-doc table th,
+.vp-doc table td {
+  white-space: nowrap;
+}
+
 :root {
   --fmhy-blue: hsl(211, 63%, 61%);
   --fmhy-blue-dark: hsl(215, 57%, 53%);
