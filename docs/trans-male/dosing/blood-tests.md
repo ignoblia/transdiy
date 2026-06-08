@@ -36,6 +36,12 @@ description: A complete guide to blood testing for masculinising hormone therapy
 | Lipid panel | Annually |
 | Blood pressure | Every visit |
 
+::: danger TEST AT TROUGH — NOT PEAK
+For injectable T, blood must be drawn **immediately before your next dose** (trough), typically on day 7 for testosterone cypionate or enanthate.
+
+**Do not test mid-cycle or shortly after injection.** Testing at peak gives misleadingly high results and can cause you to lower your dose incorrectly.
+:::
+
 ## Testing Tips
 
 - **Test at trough** — just before next injection (for injectable T)

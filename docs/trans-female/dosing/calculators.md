@@ -11,6 +11,8 @@ There is no perfect "calculator" for HRT dosing — individual responses vary to
 
 ## Estrogen Dose Equivalencies
 
+> **Note:** These are population averages. Many people achieve target levels with lower doses (e.g., 3–4 mg/week of EV). Always start low and adjust based on blood tests.
+
 Approximate equivalent doses for achieving similar E2 levels:
 
 | Oral Estradiol | Sublingual | Transdermal Patch | Gel | Injectable EV | Injectable EC | Injectable EEn |

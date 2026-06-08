@@ -79,6 +79,21 @@ This page covers the common short-term side effects that may occur in the first 
 | Changes in body temperature regulation | Metabolic shift | Layer clothing; adjust thermostat |
 | Changes in sense of smell | Hormonal | Generally harmless |
 
+## DVT / Pulmonary Embolism — Recognising the Signs
+
+::: danger SEEK EMERGENCY CARE IMMEDIATELY IF YOU HAVE:
+**Leg (DVT):**
+- Swelling, pain, warmth, or redness — usually in one calf or thigh
+
+**Chest (PE):**
+- Sudden shortness of breath, sharp chest pain (worse when breathing deeply), coughing up blood
+
+**Heart / Circulation:**
+- Rapid pulse, lightheadedness, feeling faint
+
+These are signs of deep vein thrombosis (DVT) or pulmonary embolism (PE). Do not wait — go to the emergency room.
+:::
+
 ## When to Seek Medical Attention
 
 ::: danger Emergency warning signs

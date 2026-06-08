@@ -50,6 +50,14 @@ Same panel as above, plus any additional markers your specific regimen requires 
 
 ## Tips for Accurate Results
 
+::: danger TEST AT TROUGH — NOT PEAK
+For injectable hormones, blood must be drawn **immediately before your next dose** (trough).
+- **Estradiol injections:** trough = just before next injection (e.g., day 5 or 7)
+- **Testosterone injections:** trough = just before next injection (typically day 7)
+
+**Do not test within 48 hours of an injection.** Testing at peak gives misleadingly high results and can cause you to lower your dose incorrectly.
+:::
+
 | Tip | Detail |
 |-----|--------|
 | **Test at trough for injectable E2** | For injections, test just before your next injection (lowest point). Optionally test at peak (24–48 h post-injection for EV; 3–5 days post-injection for EC/EEn) to confirm your E2 is not supraphysiologic (> 400 pg/mL / 1,470 pmol/L). |

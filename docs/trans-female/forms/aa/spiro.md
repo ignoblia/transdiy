@@ -64,6 +64,12 @@ Spironolactone can raise potassium levels. This is **rarely** clinically signifi
 **Monitoring:** Check potassium 2–4 weeks after starting, then every 3 months in year 1, then annually. Note: the Warnock et al. (2022) study suggests routine monitoring may be unnecessary in those under 45 without risk factors, but the Endocrine Society's official guidelines still recommend 3-monthly monitoring for all patients. This is emerging evidence challenging current protocol.
 :::
 
+::: warning NSAIDs and Spironolactone
+Avoid high‑dose or frequent use of ibuprofen, naproxen, or other NSAIDs while on spironolactone. These drugs can raise your potassium to dangerous levels when combined with spiro.
+
+Occasional low‑dose use (e.g., one 200 mg ibuprofen) is unlikely to harm, but **paracetamol (acetaminophen) is a safer alternative** for routine pain relief.
+:::
+
 ## Drug Interactions
 
 | Medication | Interaction |

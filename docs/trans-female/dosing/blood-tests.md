@@ -70,6 +70,14 @@ Your provider will order labs as part of routine care. This is the best option �
 
 ## Tips for Accurate Results
 
+::: danger TEST AT TROUGH — NOT PEAK
+For injectable hormones, blood must be drawn **immediately before your next dose** (trough).
+- **Estradiol injections:** trough = just before next injection (e.g., day 5 or 7)
+- **Testosterone injections:** trough = just before next injection (typically day 7)
+
+**Do not test within 48 hours of an injection.** Testing at peak gives misleadingly high results and can cause you to lower your dose incorrectly.
+:::
+
 | Tip | Why |
 |-----|-----|
 | **Test at trough** | Just before your next dose/application — shows minimum levels |
