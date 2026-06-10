@@ -44,6 +44,12 @@ const ESCAPE_TIMEOUT_MS = 1000    // 1-second window for 3 presses
 const ESCAPE_PRESSES_NEEDED = 3
 const REDIRECT_URL = 'https://www.google.com/search?q='
 
+// ====== MOBILE CONFIGURATION (Triple-tap) ======
+const TAP_TIMEOUT_MS = 1000       // 1-second window for 3 taps
+const TAPS_NEEDED = 3
+// Elements where taps should be ignored (won't trigger panic)
+const INTERACTIVE_SELECTOR = 'a, button, input, select, textarea, [role="button"], [contenteditable]'
+
 // ====== SAFE SEARCH PHRASES ======
 const safePhrases = [
   'homework help algebra quadratic equations',
@@ -76,6 +82,7 @@ const safePhrases = [
 // ====== STATE ======
 const showToast = ref(false)
 let escapePressTimestamps = []
+let tapTimestamps = []
 let toastCheckDone = false
 
 // ====== PANIC LOGIC ======
@@ -85,7 +92,17 @@ function getRandomPhrase() {
 
 function panicExit() {
   const phrase = getRandomPhrase()
-  window.location.replace(REDIRECT_URL + encodeURIComponent(phrase))
+  const safeUrl = REDIRECT_URL + encodeURIComponent(phrase)
+
+  // === Clear session history to prevent back-button exposure ===
+  // Replace the current entry so this page isn't in the stack
+  history.replaceState(null, '', window.location.pathname)
+  // Push many dummy entries to push any real site pages out of reach
+  for (let i = 0; i < 50; i++) {
+    history.pushState(null, '', window.location.pathname + '?=' + Date.now() + i)
+  }
+  // Replace the final (top) dummy entry with the safe search URL
+  window.location.replace(safeUrl)
 }
 
 function handleKeydown(e) {
@@ -98,6 +115,25 @@ function handleKeydown(e) {
 
   if (escapePressTimestamps.length >= ESCAPE_PRESSES_NEEDED) {
     escapePressTimestamps = [] // reset
+    panicExit()
+  }
+}
+
+// ====== MOBILE PANIC (Triple-tap) ======
+function handleTouchEnd(e) {
+  // Only single-finger taps
+  if (e.changedTouches.length !== 1) return
+
+  // Ignore taps on interactive elements (links, buttons, inputs, etc.)
+  const target = e.target
+  if (!target || target.closest(INTERACTIVE_SELECTOR)) return
+
+  const now = Date.now()
+  tapTimestamps = tapTimestamps.filter(t => now - t < TAP_TIMEOUT_MS)
+  tapTimestamps.push(now)
+
+  if (tapTimestamps.length >= TAPS_NEEDED) {
+    tapTimestamps = [] // reset
     panicExit()
   }
 }
@@ -125,11 +161,13 @@ function checkFirstVisit() {
 
 onMounted(() => {
   window.addEventListener('keydown', handleKeydown)
+  window.addEventListener('touchend', handleTouchEnd, { passive: true })
   checkFirstVisit()
 })
 
 onUnmounted(() => {
   window.removeEventListener('keydown', handleKeydown)
+  window.removeEventListener('touchend', handleTouchEnd)
 })
 </script>
 
