@@ -14,7 +14,8 @@
             which has severe legal restrictions for LGBTQ+ people. Possessing or importing HRT
             medications without a prescription may carry extreme legal risks there.
             If you're in danger or concerned about your safety, please visit the
-            <a href="/transdiy/safety-resources" class="safety-banner-link" @click="dismiss">Safety Resources page →</a>.
+            <a href="/transdiy/safety-resources" class="safety-banner-link" @click="dismiss">Safety Resources page</a>
+            or the <a href="https://ignoblia.github.io/transit/emergency/" class="safety-banner-link" @click="dismiss" target="_blank" rel="noopener">TransIT Emergency Guide →</a>.
           </p>
           <p class="safety-banner-footer">
             Press <kbd class="safety-banner-kbd">Esc</kbd> 3× for an immediate safe exit
